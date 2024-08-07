@@ -120,30 +120,63 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
-      link: '#'
+    - name: Simple sweeping robot
+      link: 
       tags:
-      date: 2015 - 2017
-      description: |
-        Personal project description...
-        + First
-        + Second
+      date: 2024.7-now
+      description: I plan to initially make a simple sweeping robot with sweeping and obstacle avoidance functions.
+  
+    - name: Automated Driving for Small Cars
+      link: 'https://github.com/XIANG-28/DJI-robomaster'
+      tags:
+      date: 2024.2-2024.6
+      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
+    - name: Facial recognition system
+      link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
+      tags: 
+      date: 2023.10-2023.11
+      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
+        
+    - name: Voice_recognition
+      link: 'https://github.com/XIANG-28/Voice_recognition'
+      tags: 
+      date: 2024.4-2024.6
+      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+        
+    - name: WeChat Apps for Tourism
+      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
+      tags: 
+      date: 2023.2-2023.5
+      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
+
+    - name: Java applet for drawing
+      link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
+      tags: 
+      date: 2021.3-2021.6
+      description: This program is a Java applet for drawing.
+
+    - name: Licence plate extraction system based on MATLAB
+      link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
+      tags: 
+      date: 2022.3-2022.6
+      description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
+ 
+    - name: Sentiment analysis (LSTM model)
+      link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
+      tags: 
+      date: 2022.3-2022.6
+      description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
+
+    - name: Image browsing APP based on Android studio
+      link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
+      tags: 
+      date: 2021.3-2021.6
+      description: This program is a simple image viewer app based on Android studio.
+
+
 
 skill:
   show: true
