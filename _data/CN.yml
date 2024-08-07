@@ -181,7 +181,7 @@ project:
 skill:
   show: true
   order: 4
-  title: Skills
+  title: 技能
   description: |
   
   items:
@@ -291,32 +291,38 @@ award:
   description: |
 
   items:
-    - name: First scholarship
-      awarder: Shandong University of Finance and Economics
+    - name: 获校级二等奖学金
+      awarder: 山东财经大学
+      date: 2022
+      link: 
+      description: |
+      
+    - name: 校级一等奖学金
+      awarder: 山东财经大学
       date: 2021
       link: 
       description: |
       
-    - name: First scholarship
-      awarder: Shandong University of Finance and Economics
+    - name: 校级一等奖学金
+      awarder: 山东财经大学
       date: 2020
       link: 
       description: |
       
-    - name: Excellence
-      awarder: China Computer Group Programming Ladder Tournament
+    - name: 全国大学生天梯赛团体赛优秀奖
+      awarder: 
       date: 2020
       link:
       description: |
 
-    - name: third prize Mathematical Contest in Modeling
-      awarder: school-level 
+    - name: 数学竞赛三等奖
+      awarder: 山东财经大学 
       date: 2020
       link:
       description: |
    
-    - name: third prize 
-      awarder: freshman competition of the school-level programming ladder
+    - name: 编程天梯赛新生赛三等奖
+      awarder: 山东财经大学
       date: 2020
       link:
       description: |
@@ -363,12 +369,12 @@ language:
   description: |
 
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-    - idiom: France
-      level: conversational
+    - idiom: 中文
+      level: 母语
+    - idiom: 英语
+      level: 专业
+    - idiom: 法语
+      level: 对话
 
 # interest:
 #   show: true
@@ -387,9 +393,9 @@ evaluation:
   order: 13
   title: Self-evaluation
   description: |
-   an optimistic and cheerful individual who thrives on learning new things and exploring innovative solutions. 
-   I have demonstrated strong organizational skills and leadership qualities through my experience as a group leader in various academic projects. This experience has honed my ability to manage tasks independently while ensuring high-quality outcomes. 
-   I like to interact and communicate with different people.
+  乐观开朗，喜欢学习新事物和探索创新解决方案。
+  我在担任各种学术项目组长的过程中展现出了强大的组织能力和领导才能。这段经历磨练了我独立管理任务的能力，同时确保了高质量的成果。
+  我喜欢与不同的人互动和交流。
 
 # reference:
 #   show: true
