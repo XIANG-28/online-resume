@@ -81,7 +81,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: 概述
   description: |
     I am looking for an end-of-studies internship for 4-6 months.
     
