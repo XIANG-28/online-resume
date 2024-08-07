@@ -302,19 +302,19 @@ award:
       link: '#'
       description: |
 
-     - name: Excellence
+    - name: Excellence
       awarder: China Computer Group Programming Ladder Tournament
       date: 2020
       link:
       description: |
 
-    - name: third prize
-      awarder: school-level Mathematical Contest in Modeling
+    - name: third prize Mathematical Contest in Modeling
+      awarder: school-level 
       date: 2020
       link:
       description: |
    
-    - name: third prize
+    - name: third prize 
       awarder: freshman competition of the school-level programming ladder
       date: 2020
       link:
