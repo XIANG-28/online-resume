@@ -118,7 +118,7 @@ experience:
 project:
   show: true
   order: 3
-  title: Projects
+  title: 项目
   description: |
 
   items:
@@ -225,7 +225,7 @@ skill:
 education:
   show: true
   order: 5
-  title: Education
+  title: 教育
   description: |
   
   items:
@@ -287,7 +287,7 @@ education:
 award:
   show: true
   order: 8
-  title: Awards
+  title: 奖项
   description: |
 
   items:
@@ -365,7 +365,7 @@ award:
 language:
   show: true
   order: 11
-  title: Languages
+  title: 语言
   description: |
 
   items:
@@ -391,11 +391,11 @@ language:
 evaluation:
   show: true
   order: 13
-  title: Self-evaluation
+  title: 自我评价
   description: |
-  乐观开朗，喜欢学习新事物和探索创新解决方案。
-  我在担任各种学术项目组长的过程中展现出了强大的组织能力和领导才能。这段经历磨练了我独立管理任务的能力，同时确保了高质量的成果。
-  我喜欢与不同的人互动和交流。
+    乐观开朗，喜欢学习新事物和探索创新解决方案。
+    我在担任各种学术项目组长的过程中展现出了强大的组织能力和领导才能。这段经历磨练了我独立管理任务的能力，同时确保了高质量的成果。
+    我喜欢与不同的人互动和交流。
 
 # reference:
 #   show: true
