@@ -1,26 +1,26 @@
 basic:
-  name: F                     # name
-  title: Backend            # job title
+  name: LI XIANG                   # name
+  title: AI engineer             # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: France   # location
+  email: lixiang202402@sina.com    # email address
+  phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
+  gender: female                 # gender or pronoun
+  birthday: 2000/11/28                # birthday
+  nationality:  CHINA           # nationality
+  visa: Europe                # passport visa
   drivinglicense:          # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  wechat: LSUMMERX00                # username
+  whatsapp: +33-0661268448              # 8611122223333     | https://wa.me/8611122223333
   telegram:                # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
   line:                    # lineid            | https://line.me/R/ti/p/@lineid
