@@ -230,7 +230,7 @@ education:
   
   items:
     - institution: Esigelec(France)
-      link: '#'
+      link: 
       date: 2023.7-2025.3
       major: Connected Embedded Artificial Intelligence
       degree: Master
@@ -294,12 +294,12 @@ award:
     - name: First scholarship
       awarder: Shandong University of Finance and Economics
       date: 2020
-      link: '#'
+      link: 
       description: |
     - name: First scholarship
       awarder: Shandong University of Finance and Economics
       date: 2021
-      link: '#'
+      link: 
       description: |
 
     - name: Excellence
