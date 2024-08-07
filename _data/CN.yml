@@ -158,7 +158,7 @@ project:
       date: 2021.3-2021.6
       description: 该程序是一个用于绘图的Java小程序。
 
-    - name:基于MATLAB的车牌提取系统
+    - name: 基于MATLAB的车牌提取系统
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
       tags: 
       date: 2022.3-2022.6
@@ -232,25 +232,25 @@ education:
     - institution: Esigelec(France)
       link: 
       date: 2023.7-2025.3
-      major: Connected Embedded Artificial Intelligence
-      degree: Master
+      major: 嵌入式人工智能
+      degree: 硕士
       description: |
-        Major courses: Deep Learning, Micro-controllers and its Applications, Project Management, etc.
+        主要课程：深度学习、微控制器及其应用、智能传感器、项目管理等。
 
-    - institution: Shandong University of Finance and Economics
+    - institution: 山东财经大学
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology
-      degree: Bachelor
+      major: 计算机科学与技术
+      degree: 学士
       description: |
         GPA：3.81
-        Major courses: C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
-
-    - institution: Shandong University of Finance and Economics
+        主要课程：C、java、python、数据库、并行分布式计算、移动应用开发、机器学习、网络攻防原理等。
+      
+    - institution: 山东财经大学
       link:
       date: 2020.9-2023.6
-      major: Finance
-      degree: Bachelor
+      major: 金融
+      degree: 学士
       description: |
 
       
