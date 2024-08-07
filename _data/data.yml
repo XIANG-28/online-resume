@@ -293,15 +293,16 @@ award:
   items:
     - name: First scholarship
       awarder: Shandong University of Finance and Economics
-      date: 2020
-      link: 
-      description: |
-    - name: First scholarship
-      awarder: Shandong University of Finance and Economics
       date: 2021
       link: 
       description: |
-
+      
+    - name: First scholarship
+      awarder: Shandong University of Finance and Economics
+      date: 2020
+      link: 
+      description: |
+      
     - name: Excellence
       awarder: China Computer Group Programming Ladder Tournament
       date: 2020
