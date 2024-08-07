@@ -292,30 +292,30 @@ award:
 
   items:
     - name: First scholarship
-      issuer: Shandong University of Finance and Economics
+      awarder: Shandong University of Finance and Economics
       date: 2020
       link: '#'
       description: |
     - name: First scholarship
-      issuer: Shandong University of Finance and Economics
+      awarder: Shandong University of Finance and Economics
       date: 2021
       link: '#'
       description: |
 
      - name: Excellence
-      issuer: China Computer Group Programming Ladder Tournament
+      awarder: China Computer Group Programming Ladder Tournament
       date: 2020
       link:
       description: |
 
     - name: third prize
-      issuer: school-level Mathematical Contest in Modeling
+      awarder: school-level Mathematical Contest in Modeling
       date: 2020
       link:
       description: |
    
     - name: third prize
-      issuer: freshman competition of the school-level programming ladder
+      awarder: freshman competition of the school-level programming ladder
       date: 2020
       link:
       description: |
