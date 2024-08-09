@@ -10,7 +10,7 @@ contact:
   location: France   # location
   email: lixiang202402@sina.com    # email address
   phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender: female                 # gender or pronoun
   birthday: 2000/11/28                # birthday
