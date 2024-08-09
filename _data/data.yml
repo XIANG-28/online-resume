@@ -82,8 +82,8 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: |
-    I am looking for an end-of-studies internship for 4-6 months.
+  description: 
+    I am looking for an end-of-studies internship for 4-6 months. More details:https://xiang-28.github.io/online-resume/
     
 experience:
   show: false
