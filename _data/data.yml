@@ -3,7 +3,7 @@ basic:
   title: AI engineer             # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/xiang.png # avatar file path
+    path:   # avatar file path
 
 contact:
   # meta
