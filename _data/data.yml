@@ -1,14 +1,14 @@
 basic:
   name: LI XIANG                   # name
-  title: AI engineer             # job title
+  title: machine learning & AI relted & software engineer             # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
 
 contact:
   # meta
-  location: France   # location
-  email: lixiang202402@sina.com    # email address
+  location: Paris    # location
+  email: isabellelix6@gmail.com    # email address
   phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -131,25 +131,25 @@ project:
   
     - name: Automated Driving for Small Cars
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags:
+      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function.
       date: 2024.2-2024.6
       description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
 
     - name: Facial recognition system
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: 
+      tags: training model, face record, test model.
       date: 2023.10-2023.11
       description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
         
     - name: Voice_recognition
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: 
+      tags: LBP feature, Recording visualization interface, train model, test model.
       date: 2024.4-2024.6
       description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
         
     - name: WeChat Apps for Tourism
       link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: 
+      tags: Wechat applet, javascript
       date: 2023.2-2023.5
       description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
 
