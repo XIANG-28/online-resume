@@ -129,8 +129,7 @@ project:
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
       date: 2024.2-2024.6
-      description: 
-      We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
+      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
 
     - name: Facial recognition system
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
