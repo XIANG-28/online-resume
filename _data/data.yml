@@ -83,38 +83,37 @@ profile:
   order: 1
   title: Profile
   description: 
-    I am looking for an end-of-studies internship for 4-6 months. 
+    An embedded artificial intelligence engineer and I am looking for job related to AI. 
     More details:https://xiang-28.github.io/online-resume/
     
 experience:
-  show: false
+  show: true
   order: 2
   title: Experiences
   description: |
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
+    - company: Beijing Zhipu Huazhang Technology
       link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
+      tags: internship, full time
+      date: 2024.08 - 2024.11
+      role: Building machine cognitive capabilities beyond the Turing test
       location: Beijing
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Improve my understanding and processing ability of data; learn to use various data annotation tools; lay a solid foundation for entering data science, machine learning, data analysis, etc.
 
-    - company: First Company
+    - company: WS TECH
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: internship, full time
+      date: 2024.12 - 2025.03
+      role: Installation and Maintenance of a Service Robot
+      location: Paris
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Installation and commissioning of a Robotics robot
+        Training on PUDU OS
+        Assembly/disassembly of a robot's hardware system
+        Solve robot after-sales problems
 
 project:
   show: true
@@ -123,12 +122,7 @@ project:
   description: |
 
   items:
-    - name: Simple sweeping robot
-      link: 
-      tags:
-      date: 2024.7-now
-      description: I plan to initially make a simple sweeping robot with sweeping and obstacle avoidance functions.
-  
+   
     - name: Automated Driving for Small Cars
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: 
@@ -236,9 +230,9 @@ education:
   items:
     - institution: Esigelec(France)
       link: 
-      date: 2023.7-2025.3
+      date: 2023.7-2025.4
       major: Connected Embedded Artificial Intelligence
-      degree: Master
+      degree: Engineer
       description: |
         Major courses: Deep Learning, Micro-controllers and its Applications, Project Management, etc.
 
