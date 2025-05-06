@@ -84,7 +84,7 @@ profile:
   title: Profile
   description: 
     An embedded artificial intelligence engineer and I am looking for job related to AI. 
-    More details:https://xiang-28.github.io/online-resume/
+    More details, https://xiang-28.github.io/online-resume/
     
 experience:
   show: true
@@ -101,7 +101,9 @@ experience:
       role: Building machine cognitive capabilities beyond the Turing test
       location: Beijing
       description: |
-        Improve my understanding and processing ability of data; learn to use various data annotation tools; lay a solid foundation for entering data science, machine learning, data analysis, etc.
+        Improve my understanding and processing ability of data.
+        learn to use various data annotation tools.
+        lay a solid foundation for entering data science, machine learning, data analysis.
 
     - company: WS TECH
       link:
