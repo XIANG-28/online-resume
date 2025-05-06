@@ -1,6 +1,6 @@
 basic:
   name: LI XIANG                   # name
-  title: machine learning & AI related             # job title
+  title: machine learning & AI related              # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
