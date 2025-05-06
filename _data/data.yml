@@ -136,22 +136,19 @@ project:
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
       tags: training model, face record, test model
       date: 2023.10-2023.11
-      description: 
-      Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
+      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
         
     - name: Voice_recognition
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: LBP feature, Recording visualization interface, train model, test model
       date: 2024.4-2024.6
-      description: 
-      From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
         
     - name: WeChat Apps for Tourism
       link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
       tags: Wechat applet, javascript
       date: 2023.2-2023.5
-      description: 
-      The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
+      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
 
     - name: Java applet for drawing
       link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
