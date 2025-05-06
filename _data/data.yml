@@ -91,7 +91,6 @@ experience:
   order: 2
   title: Experiences
   description: |
-    // The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
     - company: Beijing Zhipu Huazhang Technology
@@ -133,13 +132,13 @@ project:
 
     - name: Facial recognition system
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: training model, face record, test model
+      tags: training model, face record, test model, python
       date: 2023.10-2023.11
       description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
         
     - name: Voice_recognition
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: LBP feature, Recording visualization interface, train model, test model
+      tags: LBP feature, Recording visualization interface, train model, test model, python
       date: 2024.4-2024.6
       description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
         
@@ -151,25 +150,25 @@ project:
 
     - name: Java applet for drawing
       link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags: 
+      tags:  java
       date: 2021.3-2021.6
       description: This program is a Java applet for drawing.
 
-    - name: Licence plate extraction system based on MATLAB
+    - name: Licence plate extraction system
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: 
+      tags: MATLAB, Image processing
       date: 2022.3-2022.6
       description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
  
-    - name: Sentiment analysis (LSTM model)
+    - name: Sentiment analysis 
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: 
+      tags: LSTM model
       date: 2022.3-2022.6
       description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
 
-    - name: Image browsing APP based on Android studio
+    - name: Image browsing APP
       link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: 
+      tags: Android studio
       date: 2021.3-2021.6
       description: This program is a simple image viewer app based on Android studio.
 
