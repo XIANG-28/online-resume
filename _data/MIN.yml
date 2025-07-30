@@ -1,0 +1,424 @@
+basic:
+  name: LI XIANG                   # name
+  title: machine learning & AI related              # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path:   # avatar file path
+
+contact:
+  # meta
+  location: Paris    # location
+  email: isabellelix6@gmail.com    # email address
+  phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender: female                 # gender or pronoun
+  birthday: 2000/11/28                # birthday
+  nationality:  CHINA           # nationality
+  visa: Europe                # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat: LSUMMERX00                # username
+  whatsapp: +33-0661268448              # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github: XIANG-28                   # username          | https://github.com/username
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin: xiangli00                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube: IsabelleLi-ds9yo                # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: 
+    An embedded artificial intelligence engineer and I am looking for job related to AI. 
+    More details, https://xiang-28.github.io/online-resume/
+    
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  description: |
+
+  items:
+    - company: Beijing Zhipu Huazhang Technology
+      link: 
+      tags: internship, full time, remote
+      date: 2024.08 - 2024.11
+      role: Building machine cognitive capabilities beyond the Turing test
+      location: Paris
+      description: |
+        Improve my understanding and processing ability of data.
+        learn to use various data annotation tools.
+        lay a solid foundation for entering data science, machine learning, data analysis.
+
+    - company: WS TECH
+      link:
+      tags: internship, full time
+      date: 2024.12 - 2025.03
+      role: Installation and Maintenance of a Service Robot
+      location: Paris
+      description: |
+        Installation and commissioning of a Robotics robot
+        Training on PUDU OS
+        Assembly/disassembly of a robot's hardware system
+        Solve robot after-sales problems
+
+project:
+  show: true
+  order: 3
+  title: Projects
+  description: |
+
+  items:
+   
+    - name: Automated Driving for Small Cars
+      link: 'https://github.com/XIANG-28/DJI-robomaster'
+      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
+      date: 2024.2-2024.6
+      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
+
+    - name: Facial recognition system
+      link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
+      tags: training model, face record, test model, python
+      date: 2023.10-2023.11
+      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
+        
+    - name: Voice_recognition
+      link: 'https://github.com/XIANG-28/Voice_recognition'
+      tags: LBP feature, Recording visualization interface, train model, test model, python
+      date: 2024.4-2024.6
+      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+        
+    - name: WeChat Apps for Tourism
+      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
+      tags: Wechat applet, javascript
+      date: 2023.2-2023.5
+      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
+
+    - name: Java applet for drawing
+      link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
+      tags:  java
+      date: 2021.3-2021.6
+      description: This program is a Java applet for drawing.
+
+    - name: Licence plate extraction system
+      link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
+      tags: MATLAB, Image processing
+      date: 2022.3-2022.6
+      description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
+ 
+    - name: Sentiment analysis 
+      link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
+      tags: LSTM model
+      date: 2022.3-2022.6
+      description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
+
+    - name: Image browsing APP
+      link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
+      tags: Android studio
+      date: 2021.3-2021.6
+      description: This program is a simple image viewer app based on Android studio.
+
+
+
+# skill:
+#   show: true
+#   order: 4
+#   title: Skills
+#   description: |
+  
+#   items:
+#     - name: JavaScript
+#       level: 4
+#     - name: python
+#       level: 4
+#     - name: MATLAB
+#       level: 4
+#     - name: Linux
+#       level: 4
+#     - name: Android Studio
+#       level: 3
+#     - name: C
+#       level: 4
+#     - name: JAVA
+#       level: 4
+#     - name: Machine Learning
+#       level: 5
+#     - name: labview
+#       level: 4
+
+
+  # groups:
+  #   - name: Group A Skills
+  #     item:
+  #       - Skill A
+  #       - Skill B
+  #       - Skill C
+  #       - Skill D
+  #   - name: Group B Skills
+  #     item:
+  #       - Skill E
+  #       - Skill F
+  #       - Skill G
+  #   - name: Group C Skills
+  #     item:
+  #       - Skill H
+  #       - Skill I
+
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
+  
+  items:
+    - institution: Esigelec(France)
+      link: 
+      date: 2023.7-2025.4
+      major: Connected Embedded Artificial Intelligence
+      degree: Engineer
+      description: |
+        Major courses: Deep Learning, Micro-controllers and its Applications, Project Management, etc.
+
+    - institution: Shandong University of Finance and Economics
+      link:
+      date: 2019.9-2023.6
+      major: Computer Science and Technology
+      degree: Bachelor
+      description: |
+        GPA：3.81
+        Major courses: C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
+
+    - institution: Shandong University of Finance and Economics
+      link:
+      date: 2020.9-2023.6
+      major: Finance
+      degree: Bachelor
+      description: |
+
+      
+# certificate:
+#   show: true
+#   order: 6
+#   title: Certificates
+#   description: |
+    
+
+# publication:
+#   show: true
+#   order: 7
+#   title: Publications
+#   description: |
+#     The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
+
+#     Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
+
+#     If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
+
+#     Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
+
+#   items:
+#     - title: Example Publication in Action
+#       authors: Foo Bar
+#       conference: Foobar, 2019
+#       link: '#'
+#     - title: The Art of Example Publication
+#       authors: Foo Bar
+#       conference: Foobar, 2019
+#       link:
+
+# award:
+#   show: true
+#   order: 8
+#   title: Awards
+#   description: |
+
+#   items:
+#     - name: First scholarship
+#       awarder: Shandong University of Finance and Economics
+#       date: 2020-2022
+#       link: 
+#       description: |
+      
+    # - name: First scholarship
+    #   awarder: Shandong University of Finance and Economics
+    #   date: 2020
+    #   link: 
+    #   description: |
+      
+    # - name: Excellence
+    #   awarder: China Computer Group Programming Ladder Tournament
+    #   date: 2020
+    #   link:
+    #   description: |
+
+    # - name: third prize Mathematical Contest in Modeling
+    #   awarder: school-level 
+    #   date: 2020
+    #   link:
+    #   description: |
+   
+    # - name: third prize 
+    #   awarder: freshman competition of the school-level programming ladder
+    #   date: 2020
+    #   link:
+    #   description: |
+
+# patent:
+#   show: true
+#   order: 9
+#   title: Patents
+#   description: |
+#     The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+
+#     In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+
+#     Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+
+#     Template for a pending patent:
+
+#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+
+#     Template for an approved patent:
+
+#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+
+#     The following are some examples of patent formats.
+
+#     + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+#     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+
+# organization:
+#   show: true
+#   order: 10
+#   title: Organizations
+#   description: |
+#     The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
+
+#     In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+
+#     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+
+language:
+  show: true
+  order: 11
+  title: Languages
+  description: |
+
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+    - idiom: France
+      level: conversational
+
+# interest:
+#   show: true
+#   order: 12
+#   title: Interests
+#   description: |
+
+#   items:
+#     - item: Reading
+#       link: '#'
+#     - item: Cooking
+#       link:
+
+evaluation:
+  show: true
+  order: 13
+  title: Self-evaluation
+  description: |
+   an optimistic and cheerful individual who thrives on learning new things and exploring innovative solutions. 
+   I have demonstrated strong organizational skills and leadership qualities through my experience as a group leader in various academic projects. This experience has honed my ability to manage tasks independently while ensuring high-quality outcomes. 
+   I like to interact and communicate with different people.
+
+# reference:
+#   show: true
+#   order: 14
+#   title: References
+#   description: |
+#     A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+
+#     It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
+
+#     When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
+
+#     It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
+
+#   items:
+#     - name: Foo One
+#       link: '#'
+#       title: Backend Developer
+#       institution: Second Company
+#       address: 1234 Example St, XXX, XY 11111
+#       email: foo.one@example.com
+#       phone: 111-222-333
+#       description: |
+#         Foo One was my colleague in Second Company.
+
+#     - name: Bar Two
+#       link:
+#       title: Professor
+#       institution: Example University
+#       address: 4321 Example St, YYY, XY 22222
+#       email: bar.two@example.com
+#       phone: 444-555-666
+#       description: |
+#         Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>
