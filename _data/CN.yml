@@ -85,6 +85,7 @@ profile:
   description: |
     我正在寻找一份人工智能相关的工作
     更多详细：https://xiang-28.github.io/online-resume/CN
+    
 experience:
   show: true
   order: 2
