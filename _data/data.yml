@@ -116,6 +116,14 @@ experience:
         Assembly/disassembly of a robot's hardware system
         Solve robot after-sales problems
 
+    - company: WS TECH
+      link:
+      tags: full time
+      date: 2025.05 - 2025.08
+      role: Installation and Maintenance of a Service Robot
+      location: Paris
+      description: |
+        
 project:
   show: true
   order: 3
