@@ -96,35 +96,34 @@ experience:
   items:
   
   - company: 北京智谱华章
-      link: 
-      tags: 实习
-      date: 2024.08 - 2024.11
-      role: 数据标注
-      location: 远程
-      description: |
+    link: 
+    tags: 实习
+    date: 2024.08 - 2024.11
+    role: 数据标注
+    location: 远程
+    description: |
         提升对数据的理解和处理能力。
         学习使用各种数据标注工具。
         为进入数据科学、机器学习、数据分析领域打下坚实的基础。
-
-    - company: WS TECH
-      link:
-      tags: 实习
-      date: 2024.12 - 2025.03
-      role: 服务机器人的安装与维护
-      location: 巴黎
-      description: |
+  - company: WS TECH
+    link:
+    tags: 实习
+    date: 2024.12 - 2025.03
+    role: 服务机器人的安装与维护
+    location: 巴黎
+    description: |
        Robotics机器人的安装和调试
         PUDU操作系统培训
         机器人硬件系统的组装/拆卸
         机器人售后问题解决
         
-    - company: WS TECH
-      link:
-      tags: 全职
-      date: 2025.5 - 2025.08
-      role: 售后技术
-      location: 巴黎
-      description: |
+  - company: WS TECH
+    link:
+    tags: 全职
+    date: 2025.5 - 2025.08
+    role: 售后技术
+    location: 巴黎
+    description: |
         Robotics机器人的安装和调试
         机器人售后技术问题解决
         点单系统售后技术问题
