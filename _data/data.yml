@@ -1,6 +1,6 @@
 basic:
   name: LI XIANG1                   # name
-  title: machine learning & AI related              # job title
+  title: AI & Computer Science              # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: 
-    An embedded artificial intelligence engineer and I am looking for job related to AI. 
+    An embedded artificial intelligence engineer and I am looking for job related to AI and Compuuter Science. 
     More details, https://xiang-28.github.io/online-resume/
     
 experience:
