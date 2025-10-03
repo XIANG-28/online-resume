@@ -164,49 +164,49 @@ project:
   
     - name: 小型车自动驾驶
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags:
+      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
       date: 2024.2-2024.6
       description: 我们利用robomaster DJI来实现对目标的跟踪和跟随，识别物体并抓取以及避开固定和移动障碍物。
 
     - name: 面部识别系统
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: 
+      tags: training model, face record, test model, python
       date: 2023.10-2023.11
       description: 基于百度飞桨对人脸信息进行标注并训练模型，使得训练好的模型能够识别。
         
     - name: 语音识别
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: 
+      tags: LBP feature, Recording visualization interface, train model, test model, python
       date: 2024.4-2024.6
       description: 从录制你想要的语音开始，把wav转为图像，然后使用lbp计算特征值并将值保存为txt，用这个值来训练模型，最后实时测试。
       
     - name: 旅游微信小程序
       link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: 
+      tags: Wechat applet, javascript
       date: 2023.2-2023.5
       description: 与网页HTML、CSS类似的原理，制作出一个视觉上让人足不出户就能浏览旅游景点的微型程序。
       
     - name: 用于绘图的 Java 小程序
       link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags: 
+      tags: java
       date: 2021.3-2021.6
       description: 该程序是一个用于绘图的Java小程序。
 
     - name: 基于MATLAB的车牌提取系统
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: 
+      tags: MATLAB, Image processing
       date: 2022.3-2022.6
       description: 利用图像处理技术,利用MATLAB锁定车牌位置,获取车牌信息。
       
     - name: 情绪分析（LSTM 模型）
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: 
+      tags: LSTM model
       date: 2022.3-2022.6
       description: 产品评论被用作数据集，将评论分为“积极”和“消极”类别。
       
     - name: 基于Android Studio的图片浏览APP
       link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: 
+      tags: Android studio
       date: 2021.3-2021.6
       description: 该程序是一个基于Android Studio的简单图像查看器应用程序。
 
