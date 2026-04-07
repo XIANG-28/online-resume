@@ -150,11 +150,11 @@ skill:
   - name: VS Code
     level: 5 
   - name: PyCharm
-    level: 5      
-  - name: Docker
-    level: 3   
+    level: 5  
   - name: Embedded Systems
     level: 4
+  - name: Docker
+    level: 3   
   - name: Microcontrollers
     level: 4       
   - name: Machine Learning
