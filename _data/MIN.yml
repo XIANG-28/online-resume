@@ -188,7 +188,9 @@ education:
       major: Computer Science and Technology (GPA：3.81)
       degree: Bachelor
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, Computer Principles, Computer Networks, Database, operating system, Algorithm Analysis and Design, Computer Graphics, Parallel row Distributed Computing, mobile Application Development, Machine Learning, etc.
+        Major courses: Advanced Mathematics, Linear Algebra, 
+        Computer Principles, Computer Networks, Database, operating system, 
+        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -197,7 +199,10 @@ education:
       degree: Bachelor
       description: |
     
-         Major courses: Statistics, Micro Economics, International Economics, Insurance, Financial Engineering, Financial Marketing, Financial Risk Management, Stock investment, etc.
+         Major courses: Micro Economics, International Economics, 
+         Statistics, Insurance, Accounting
+         Financial Engineering, Financial Marketing, Financial Risk Management, 
+         International Credit, Stock investment, etc.
 
       
     
