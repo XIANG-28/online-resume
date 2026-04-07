@@ -9,7 +9,7 @@ contact:
   # meta
   location: Paris    # location
   email: isabellelix6@gmail.com    # email address
-  phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender: female                 # gender or pronoun
@@ -248,7 +248,7 @@ project:
 
 language:
   show: true
-  order: 11
+  order: 6
   title: Languages
   description: |
 
@@ -274,7 +274,7 @@ language:
 
 evaluation:
   show: true
-  order: 13
+  order: 7
   title: Self-evaluation
   description: |
    ENFP, an optimistic and cheerful individual who thrives on learning new things and exploring innovative solutions. 
