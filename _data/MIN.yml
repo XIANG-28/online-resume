@@ -178,7 +178,9 @@ education:
       degree: Engineer
       description: | 
         
-        Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
+        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
+        Virtual Instrumentation, Smart Sensors, Project Management, 
+        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
