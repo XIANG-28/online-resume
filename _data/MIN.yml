@@ -164,6 +164,8 @@ skill:
     - name: JavaScript
       level: 3  
 
+  
+   
 education:
   show: true
   order: 3
