@@ -201,7 +201,7 @@ education:
     
 project:
   show: true
-  order: 4
+  order: 6
   title: Projects
   description: |
 
