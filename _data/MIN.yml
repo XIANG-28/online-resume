@@ -83,8 +83,9 @@ profile:
   order: 1
   title: Profile
   description: 
-    An embedded artificial intelligence engineer and I am looking for job related to AI and Compuuter Science. 
-    More details, https://xiang-28.github.io/online-resume/
+    Master’s student in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
+    Experienced in multi-modal data annotation and AI data pipelines. 
+    Passionate about AI applications and software development, currently seeking opportunities in Paris.
     
 experience:
   show: true
@@ -100,7 +101,7 @@ experience:
       role: Data Annotation
       location: Paris
       description: |
-        Performed annotation of multi-modal data (image, text, and web content) for machine learning model training; 
+        Performed annotation of multi-modal data for machine learning model training; 
         Contributed to data preprocessing and dataset structuring for AI pipelines; 
         Supported the development of reliable training datasets for downstream AI tasks
 
