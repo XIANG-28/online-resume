@@ -145,25 +145,24 @@ skill:
       level: 4
     - name: Linux/ Unix
       level: 4
-    - name: Embedded Systems
-      level: 4
-    - name: Microcontrollers
-      level: 4    
-    - name: JavaScript
-      level: 3     
-    - name: Machine Learning
-      level: 5
-    - name: Data Processing
-      level: 4
     - name: Git
       level: 3
     - name: VS Code / PyCharm
       level: 5 
     - name: Docker
-      level: 3       
+      level: 3   
+    - name: Embedded Systems
+      level: 4
+    - name: Microcontrollers
+      level: 4       
+    - name: Machine Learning
+      level: 5
+    - name: Data Processing
+      level: 4      
     - name: labview
       level: 4
-
+    - name: JavaScript
+      level: 3  
 
 education:
   show: true
