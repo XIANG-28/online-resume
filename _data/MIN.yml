@@ -154,26 +154,9 @@ skill:
       level: 4
 
 
-  # groups:
-  #   - name: Group A Skills
-  #     item:
-  #       - Skill A
-  #       - Skill B
-  #       - Skill C
-  #       - Skill D
-  #   - name: Group B Skills
-  #     item:
-  #       - Skill E
-  #       - Skill F
-  #       - Skill G
-  #   - name: Group C Skills
-  #     item:
-  #       - Skill H
-  #       - Skill I
-
 education:
   show: true
-  order: 5
+  order: 3
   title: Education
   description: |
   
@@ -181,35 +164,33 @@ education:
     - institution: Esigelec(France)
       link: 
       date: 2023.7-2025.4
-      major: Connected Embedded Artificial Intelligence
+      major: Connected Embedded Artificial Intelligence (Grade: 15.59/20)
       degree: Engineer
       description: |
-        Grade: 15.59/20
+      
         Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology
+      major: Computer Science and Technology (GPA：3.81)
       degree: Bachelor
       description: |
-        GPA：3.81
         Major courses: program C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance
+      major: Finance (GPA：3.57)
       degree: Bachelor
       description: |
-         GPA：3.57
          Major courses: Insurance, Financial Engineering, Financial Marketing, Micro Economics, International Economics, Financial Risk Management, etc.
 
       
     
 project:
   show: true
-  order: 3
+  order: 5
   title: Projects
   description: |
 
