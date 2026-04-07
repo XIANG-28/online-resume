@@ -147,8 +147,10 @@ skill:
       level: 4
     - name: Git
       level: 3
-    - name: VS Code / PyCharm
+    - name: VS Code
       level: 5 
+     - name: PyCharm
+      level: 5      
     - name: Docker
       level: 3   
     - name: Embedded Systems
@@ -159,8 +161,6 @@ skill:
       level: 5
     - name: Data Processing
       level: 4      
-    - name: labview
-      level: 4
     - name: JavaScript
       level: 3  
 
