@@ -111,7 +111,6 @@ experience:
       role: Installation and Maintenance of a Service Robot
       location: Paris
       description: |
-        Installation and commissioning of a Robotics robot
         
 
     - company: WS TECH
@@ -167,7 +166,7 @@ education:
       major: Connected Embedded Artificial Intelligence 
       degree: Engineer
       description: | 
-        Grade:15.59/20 |
+        Grade:15.59/20 \n
         Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
