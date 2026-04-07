@@ -164,27 +164,26 @@ education:
     - institution: Esigelec(France)
       link: 
       date: 2023.7-2025.4
-      major: Connected Embedded Artificial Intelligence  Grade: 15.59/20
+      major: Connected Embedded Artificial Intelligence 
       degree: Engineer
-      description: |
-      
-        Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
+      description: | 
+        Grade:15.59/20 ; Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology  GPA：3.81
+      major: Computer Science and Technology 
       degree: Bachelor
       description: |
-        Major courses: program C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
+        GPA：3.81 ; Major courses: program C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance   GPA：3.57
+      major: Finance   
       degree: Bachelor
       description: |
-         Major courses: Insurance, Financial Engineering, Financial Marketing, Micro Economics, International Economics, Financial Risk Management, etc.
+         GPA：3.57 ; Major courses: Insurance, Financial Engineering, Financial Marketing, Micro Economics, International Economics, Financial Risk Management, etc.
 
       
     
