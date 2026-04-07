@@ -112,9 +112,7 @@ experience:
       location: Paris
       description: |
         Installation and commissioning of a Robotics robot
-        Training on PUDU OS
-        Assembly/disassembly of a robot's hardware system
-        Solve robot after-sales problems
+        
 
     - company: WS TECH
       link:
@@ -123,6 +121,10 @@ experience:
       role: Installation and Maintenance of a Service Robot
       location: Paris
       description: |
+          On-site installation and debugging of food delivery robots & robot vacuum cleaners
+          Robot hardware system assembly and disassembly
+          Robot after-sales issues
+          PUDU operating system training
 
 
 skill:
