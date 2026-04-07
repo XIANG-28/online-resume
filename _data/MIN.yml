@@ -167,7 +167,8 @@ education:
       major: Connected Embedded Artificial Intelligence 
       degree: Engineer
       description: | 
-        Grade:15.59/20 ; Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
+        Grade:15.59/20 |
+        Major courses: Embedded C Progamming, Virtual Instrumentation, Smart Sensors, Project Management, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -175,7 +176,8 @@ education:
       major: Computer Science and Technology 
       degree: Bachelor
       description: |
-        GPA：3.81 ; Major courses: program C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
+        GPA：3.81 |
+        Major courses: program C, java, python, Database, Parallel row Distributed Computing, mobile Application Development, Machine Learning, network offensive and defensive principles, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -183,7 +185,8 @@ education:
       major: Finance   
       degree: Bachelor
       description: |
-         GPA：3.57 ; Major courses: Insurance, Financial Engineering, Financial Marketing, Micro Economics, International Economics, Financial Risk Management, etc.
+         GPA：3.57 |
+         Major courses: Insurance, Financial Engineering, Financial Marketing, Micro Economics, International Economics, Financial Risk Management, etc.
 
       
     
