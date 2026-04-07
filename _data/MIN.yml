@@ -133,22 +133,34 @@ skill:
   description: |
   
   items:
-    - name: JavaScript
-      level: 4
-    - name: python
-      level: 4
-    - name: MATLAB
-      level: 4
-    - name: Linux
-      level: 4
-    - name: Android Studio
-      level: 3
     - name: C
       level: 4
     - name: JAVA
       level: 4
+    - name: Python
+      level: 5
+    - name: SQL
+      level: 3
+    - name: MATLAB
+      level: 4
+    - name: Linux/ Unix
+      level: 4
+    - name: Embedded Systems
+      level: 4
+    - name: Microcontrollers
+      level: 4    
+    - name: JavaScript
+      level: 3     
     - name: Machine Learning
       level: 5
+    - name: Data Processing
+      level: 4
+    - name: Git
+      level: 3
+    - name: VS Code / PyCharm
+      level: 5 
+    - name: Docker
+      level: 3       
     - name: labview
       level: 4
 
