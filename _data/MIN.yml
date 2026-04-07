@@ -97,13 +97,14 @@ experience:
       link: 
       tags: internship, full time, remote
       date: 2024.08 - 2024.11
-      role: Building machine cognitive capabilities beyond the Turing test
+      role: Data Annotation
       location: Paris
       description: |
-        Improve my understanding and processing ability of data.
-        learn to use various data annotation tools.
-        lay a solid foundation for entering data science, machine learning, data analysis.
+        Performed annotation of multi-modal data (image, text, and web content) for machine learning model training; 
+        Contributed to data preprocessing and dataset structuring for AI pipelines; 
+        Supported the development of reliable training datasets for downstream AI tasks
 
+        
     - company: WS TECH
       link:
       tags: internship, full time
