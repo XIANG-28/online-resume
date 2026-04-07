@@ -85,7 +85,7 @@ profile:
   description: 
     Master’s student in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
     Experienced in multi-modal data annotation and AI data pipelines. 
-    Passionate about AI applications and software development, currently seeking opportunities in Paris.
+    Passionate about AI applications and software development, currently seeking opportunities in Europe.
     
 experience:
   show: true
@@ -94,27 +94,6 @@ experience:
   description: |
 
   items:
-    - company: Beijing Zhipu Huazhang Technology
-      link: 
-      tags: internship, full time, remote
-      date: 2024.08 - 2024.11
-      role: Data Annotation
-      location: Paris
-      description: |
-        Performed annotation of multi-modal data for machine learning model training; 
-        Contributed to data preprocessing and dataset structuring for AI pipelines; 
-        Supported the development of reliable training datasets for downstream AI tasks
-
-        
-    - company: WS TECH
-      link:
-      tags: internship, full time
-      date: 2024.12 - 2025.03
-      role: Installation and Maintenance of a Service Robot
-      location: Paris
-      description: |
-        
-
     - company: WS TECH
       link:
       tags: full time
@@ -126,6 +105,25 @@ experience:
           Robot hardware system assembly and disassembly;
           Robot after-sales issues;
           PUDU operating system training.
+        
+    - company: WS TECH
+      link:
+      tags: internship, full time
+      date: 2024.12 - 2025.03
+      role: Installation and Maintenance of a Service Robot
+      location: Paris
+      description: |
+        
+    - company: Beijing Zhipu Huazhang Technology
+      link: 
+      tags: internship, full time, remote
+      date: 2024.08 - 2024.12
+      role: Data Annotation
+      location: Paris
+      description: |
+        Performed annotation of multi-modal data for machine learning model training; 
+        Contributed to data preprocessing and dataset structuring for AI pipelines; 
+        Supported the development of reliable training datasets for downstream AI tasks          
 
 
 skill:
