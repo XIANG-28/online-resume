@@ -214,68 +214,63 @@ project:
 
   items:
    
-    - name: Automated Driving for Small Cars
+    - name: Système de conduite autonome pour véhicule miniature
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
       date: 2024.2-2024.6
-      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
+      description: Développement d’un système de suivi de cible et de navigation autonome basé sur RoboMaster DJI; 
+                  Implémentation de la détection d’objets et du suivi en temps réel; 
+                  Intégration de capteurs pour l’évitement d’obstacles statiques et dynamiques; 
+                  Conception d’un système de préhension (object grabbing)
         
-    - name: Voice_recognition
+    - name: Système de reconnaissance vocale basé sur l’analyse d’images
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: LBP feature, Recording visualization interface, train model, test model, python
       date: 2024.4-2024.6
-      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+      description: Conversion de signaux audio (WAV) en représentations visuelles;
+                    Extraction de caractéristiques via la méthode LBP;
+                    Entraînement et évaluation de modèles de reconnaissance;
+                    Implémentation d’un système de test en temps réel
 
-    - name: Facial recognition system
+    - name: Système de reconnaissance faciale
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
       tags: training model, face record, test model, python
       date: 2023.10-2023.11
-      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
-   
+      description: Annotation de données faciales et préparation du dataset, Entraînement d’un modèle de reconnaissance faciale, Évaluation des performances du modèle
+ 
     - name: WeChat Apps for Tourism
       link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
       tags: Wechat applet, javascript
       date: 2023.2-2023.5
       description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
 
-    - name: Licence plate extraction system
+    - name: Système d’extraction de plaques d’immatriculation
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: MATLAB, Image processing
+      tags: MATLAB, traitement d’image
       date: 2022.3-2022.6
-      description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
- 
-    - name: Sentiment analysis 
+      description: Détection et localisation de plaques à partir d’images, Extraction d’informations à l’aide de techniques de traitement d’image
+
+    - name: Analyse de sentiments basée sur LSTM
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
       tags: LSTM model
       date: 2022.3-2022.6
-      description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
+      description: Classification de textes en sentiments positifs et négatifs, Utilisation de modèles de deep learning pour le traitement du langage naturel
 
-    - name: Image browsing APP
-      link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: Android studio
-      date: 2021.3-2021.6
-      description: This program is a simple image viewer app based on Android studio.
-
-    - name: Java applet for drawing
-      link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags:  java
-      date: 2021.3-2021.6
-      description: This program is a Java applet for drawing.
 
 
 language:
   show: true
   order: 5
-  title: Languages
+  title: Langues
   description: |
 
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: B2
-    - idiom: France
-      level: A2 (learning)
+    - idiom: Chinois
+      level: langue maternelle
+    - idiom: Anglais
+      level: niveau B2
+    - idiom: Français
+      level: niveau A2 (en cours d’apprentissage)
 
 # interest:
 #   show: true
