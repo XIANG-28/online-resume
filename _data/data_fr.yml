@@ -129,13 +129,7 @@ skill:
         - SQL
         - Java
         - C
-    - name: Données & Analyse
-      item:
-        - Prétraitement et nettoyage de données
-        - Annotation de données multimodales
-        - Pipelines de données pour ML
-        - Analyse exploratoire (EDA)
-        - Visualisation de données (Matplotlib, Seaborn)
+
     - name: Frameworks & Outils
       item:
         - Pandas, NumPy
@@ -149,6 +143,13 @@ skill:
         - Git
         - Docker
         - PyCharm, VS Code
+    - name: Données & Analyse
+      item:
+        - Prétraitement et nettoyage de données
+        - Annotation de données multimodales
+        - Pipelines de données pour ML
+        - Analyse exploratoire (EDA)
+        - Visualisation de données (Matplotlib, Seaborn)        
 
 education:
   show: true
@@ -172,6 +173,15 @@ education:
       description: |  
         Cours principaux: Bases de données, Systèmes d’exploitation, Analyse et conception d’algorithmes, Machine Learning, Mathématiques avancées
 
+    - institution: Shandong University of Finance and Economics, Chine
+      link:
+      date: 2020.9-2023.6
+      major: Finance (GPA：3.57/4)
+      degree: Licence
+      description: |
+        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
+                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
+      
 project:
   show: true
   order: 6
