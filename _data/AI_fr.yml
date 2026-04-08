@@ -96,10 +96,9 @@ experience:
   description: |
 
   items:
-  
     - company: WS TECH
       link:
-      tags: Technicienne
+      tags: Technicienne    
       date: 2025.05 - 2025.08
       role: Installation et maintenance de robots de service
       location: Paris
