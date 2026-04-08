@@ -84,48 +84,39 @@ profile:
   order: 1
   title: Profile
   description: 
-   Étudiante en master d’intelligence artificielle embarquée, avec une solide formation en informatique et en finance. 
-   Expérience en annotation de données multimodales et en préparation de données pour le machine learning. 
-   À la recherche d’opportunités en Europe dans le domaine de l’IA et du développement logiciel.
-    
+    Étudiante en master d’intelligence artificielle embarquée, spécialisée en traitement et analyse de données. 
+    Expérience en annotation, nettoyage et structuration de données multimodales, création de pipelines fiables pour machine learning. 
+    À la recherche d’opportunités en Europe dans le domaine de **Data / Data Engineering / Data Analysis**.
+
 experience:
   show: true
   order: 2
   title: Expériences
   description: |
-
   items:
-    - company: WS TECH
-      link:
-      tags: Technicienne
-      date: 2025.05 - 2025.08
-      role: Installation et maintenance de robots de service
-      location: Paris
-      description: |
-          Installation et mise en service sur site de robots de livraison et d’aspirateurs autonomes; 
-          Diagnostic et résolution de problèmes techniques (debugging); 
-          Montage et démontage de systèmes matériels robotiques; 
-          Gestion du service après-vente et support client; 
-          Formation au système d’exploitation PUDU
-        
-    - company: WS TECH
-      link:
-      tags: Stagiaire
-      date: 2024.12 - 2025.03
-      role: Installation and Maintenance of a Service Robot
-      location: Paris
-      description: |
-        
     - company: Beijing Zhipu Huazhang Technology
       link: 
       tags: Stagiaire, Télétravail
       date: 2024.08 - 2024.12
-      role: Annotation de données
+      role: Data Annotation & Prétraitement
       location: Paris
       description: |
-        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
-        Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
-        Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
+        Annotation de données multimodales (images, textes, web) pour entraînement de modèles ML
+        Nettoyage, normalisation et structuration de datasets pour pipelines de données
+        Collaboration à la création de datasets fiables pour vision par ordinateur et NLP
+        Suivi et documentation des datasets pour assurer qualité et traçabilité
+
+    - company: WS TECH
+      link:
+      tags: Stagiaire / Technicienne
+      date: 2024.12 - 2025.08
+      role: Support Technique et Gestion de Données
+      location: Paris
+      description: |
+        Collecte et traitement de données de capteurs sur robots autonomes
+        Diagnostic et reporting technique via analyse des logs
+        Participation à l’intégration de systèmes et à la maintenance de pipelines de données embarquées
+
 skill:
   show: true
   order: 4
@@ -135,47 +126,35 @@ skill:
     - name: Langages de Programmation
       item:
         - Python
+        - SQL
         - Java
         - C
-        - SQL
-    - name: Systèmes et Matériels
+    - name: Données & Analyse
       item:
-        - Linux/Unix
-        - Systèmes Embarqués
-        - Microcontrôleurs 
-        
-    - name: Apprentissage Automatique
+        - Prétraitement et nettoyage de données
+        - Annotation de données multimodales
+        - Pipelines de données pour ML
+        - Analyse exploratoire (EDA)
+        - Visualisation de données (Matplotlib, Seaborn)
+    - name: Frameworks & Outils
       item:
-        - Apprentissage Supervisé
-        - LSTM
-        - Vision par Ordinateur
-    
-    - name: Frameworks et Bibliothèques
-      item:
-        - YOLO
+        - Pandas, NumPy
+        - Scikit-learn
+        - YOLO (pour vision)
         - PaddlePaddle
         - MATLAB
-    
-    - name: Données et Pipelines
+    - name: Systèmes & Développement
       item:
-        - Traitement de Données
-        - Annotation de Données
-        - Pipelines IA
-        
-    - name: Outils de Développement
-      item:
+        - Linux/Unix
         - Git
-        - PyCharm  
-        - VS Code
-        - Docker  
-   
+        - Docker
+        - PyCharm, VS Code
 
 education:
   show: true
   order: 3
   title: Education
   description: |
-  
   items:
     - institution: ESIGELEC, France
       link: 
@@ -183,14 +162,7 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        
-        Cours principaux: Programmation embarquée en C, 
-                        Intelligence artificielle pour systèmes intelligents, 
-                        Instrumentation virtuelle, 
-                        Capteurs intelligents, 
-                        Gestion de projet, 
-                        Structures de données et algorithmes,
-                        Fondamentaux du machine learning, etc.
+        Cours principaux: Fondamentaux du machine learning, Prétraitement et analyse de données, Structures de données et algorithmes, Capteurs intelligents
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
@@ -198,71 +170,41 @@ education:
       major: Informatique (GPA：3.81/4)
       degree: Licence
       description: |  
-        Cours principaux: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
-        Analyse et conception d’algorithmes, Infographie, Développement d’applications mobiles, Machine learning, etc.
+        Cours principaux: Bases de données, Systèmes d’exploitation, Analyse et conception d’algorithmes, Machine Learning, Mathématiques avancées
 
-    - institution: Shandong University of Finance and Economics, Chine
-      link:
-      date: 2020.9-2023.6
-      major: Finance (GPA：3.57/4)
-      degree: Licence
-      description: |
-        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
-                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
-      
-    
 project:
   show: true
   order: 6
   title: Projects
   description: |
-
   items:
-   
     - name: Système de conduite autonome pour véhicule miniature
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID, YOLOv5, PP-PicoDet, capteurs, MediaPipe
+      tags: YOLOv5, PP-PicoDet, capteurs
       date: 2024.2-2024.6
-      description: Développement d’un système de suivi de cible et de navigation autonome basé sur RoboMaster DJI; 
-                  Implémentation de la détection d’objets et du suivi en temps réel; 
-                  Intégration de capteurs pour l’évitement d’obstacles statiques et dynamiques; 
-                  Conception d’un système de préhension (object grabbing)
-        
-    - name: Système de reconnaissance vocale basé sur l’analyse d’images
-      link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: Python, LBP
-      date: 2024.4-2024.6
-      description: Conversion de signaux audio (WAV) en représentations visuelles;
-                    Extraction de caractéristiques via la méthode LBP;
-                    Entraînement et évaluation de modèles de reconnaissance;
-                    Implémentation d’un système de test en temps réel
+      description: |
+        Collecte, traitement et intégration de données de capteurs pour navigation autonome
+        Implémentation de pipelines pour suivi et détection d’objets en temps réel
+        Analyse et reporting des performances des modèles
 
     - name: Système de reconnaissance faciale
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
       tags: PaddlePaddle, Python
       date: 2023.10-2023.11
-      description: Annotation de données faciales et préparation du dataset, Entraînement d’un modèle de reconnaissance faciale, Évaluation des performances du modèle
- 
-    - name: WeChat Apps for Tourism
-      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: Wechat applet, javascript
-      date: 2023.2-2023.5
-      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
-
-    - name: Système d’extraction de plaques d’immatriculation
-      link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: MATLAB, traitement d’image
-      date: 2022.3-2022.6
-      description: Détection et localisation de plaques à partir d’images, Extraction d’informations à l’aide de techniques de traitement d’image
+      description: |
+        Préparation et nettoyage de datasets faciaux
+        Annotation et structuration des données
+        Entraînement et évaluation de modèle, suivi des métriques de performance
 
     - name: Analyse de sentiments basée sur LSTM
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: LSTM model
+      tags: LSTM, NLP, Python
       date: 2022.3-2022.6
-      description: Classification de textes en sentiments positifs et négatifs, Utilisation de modèles de deep learning pour le traitement du langage naturel
-
-
-
+      description: |
+        Prétraitement et vectorisation de données textuelles
+        Construction et entraînement de modèles LSTM pour classification de sentiments
+        Évaluation des résultats et analyse des métriques
+        
 language:
   show: true
   order: 5
