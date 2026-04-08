@@ -135,19 +135,18 @@ skill:
   description: |
   
   items:
-  - name:  Python, C, Java, SQL  
 
   - name: Supervised Learning, LSTM, Computer Vision 
+  
+  - name:  Python, C, Java, SQL  
 
   - name: YOLO, PaddlePaddle, MATLAB 
 
   - name: Data Processing, Data Annotation, Data Pipelines 
 
-  - name: Linux/Unix, Embedded Systems, Microcontrollers 
-
   - name: Git, Docker, VS Code, PyCharm 
 
-    
+  - name: Linux/Unix, Embedded Systems, Microcontrollers   
   
    
 education:
