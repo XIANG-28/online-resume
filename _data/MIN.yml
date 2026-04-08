@@ -1,5 +1,5 @@
 basic:
-  name: LI XIANG                   # name
+  name: XIANG LI                 # name
   title: AI & Computer Science              # job title
   avatar:
     show: true                       # show or hide avatar
@@ -178,7 +178,7 @@ education:
       link: 
       date: 2023.7-2025.4
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
-      degree: Engineer
+      degree: Master
       description: | 
         
         Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
@@ -188,7 +188,7 @@ education:
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology (GPA：3.81)
+      major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
         Major courses: Advanced Mathematics, Linear Algebra, 
@@ -198,7 +198,7 @@ education:
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance (GPA：3.57)
+      major: Finance (GPA：3.57/4)
       degree: Bachelor
       description: |
     
