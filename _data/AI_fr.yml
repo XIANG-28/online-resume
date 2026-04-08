@@ -1,6 +1,6 @@
 basic:
   name: XIANG LI                  # name
-  title: IA            # job title
+  title:             # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
