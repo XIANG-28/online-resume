@@ -198,7 +198,7 @@ project:
       date: 2024.2-2024.6
       description: Developed an autonomous driving system using RoboMaster platform, implemented object detection and tracking using YOLOv5 and PP-PicoDet, designed a PID controller for motion control and target following, integrated multi-sensor data for obstacle avoidance in dynamic environments
 
-        
+      
     - name: Voice Recognition System
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
