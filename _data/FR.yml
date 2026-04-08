@@ -1,5 +1,5 @@
 basic:
-  name: LI XIANG                   # name
+  name: XIANG LI                  # name
   title:             # job title
   avatar:
     show: true                       # show or hide avatar
@@ -216,7 +216,7 @@ project:
    
     - name: Système de conduite autonome pour véhicule miniature
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
+      tags: PID, YOLOv5, PP-PicoDet, capteurs, MediaPipe
       date: 2024.2-2024.6
       description: Développement d’un système de suivi de cible et de navigation autonome basé sur RoboMaster DJI; 
                   Implémentation de la détection d’objets et du suivi en temps réel; 
@@ -225,7 +225,7 @@ project:
         
     - name: Système de reconnaissance vocale basé sur l’analyse d’images
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: LBP feature, Recording visualization interface, train model, test model, python
+      tags: Python, LBP
       date: 2024.4-2024.6
       description: Conversion de signaux audio (WAV) en représentations visuelles;
                     Extraction de caractéristiques via la méthode LBP;
@@ -234,7 +234,7 @@ project:
 
     - name: Système de reconnaissance faciale
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: training model, face record, test model, python
+      tags: PaddlePaddle, Python
       date: 2023.10-2023.11
       description: Annotation de données faciales et préparation du dataset, Entraînement d’un modèle de reconnaissance faciale, Évaluation des performances du modèle
  
