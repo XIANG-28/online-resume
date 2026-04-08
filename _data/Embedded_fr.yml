@@ -180,8 +180,7 @@ education:
       major: Finance (GPA：3.57/4)
       degree: Licence
       description: |
-        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
-                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
+      
 project:
   show: true
   order: 6
