@@ -185,14 +185,8 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        
-        Major courses: Programmation embarquée en C, 
-                        Intelligence artificielle pour systèmes intelligents, 
-                        Instrumentation virtuelle, 
-                        Capteurs intelligents, 
-                        Gestion de projet, 
-                        Structures de données et algorithmes,
-                        Fondamentaux du machine learning, etc.
+        Cours principaux : Programmation embarquée en C, Intelligence artificielle pour systèmes intelligents, Instrumentation virtuelle, 
+        Capteurs intelligents, Gestion de projet, Structures de données et algorithmes, Fondamentaux du machine learning, etc.
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
