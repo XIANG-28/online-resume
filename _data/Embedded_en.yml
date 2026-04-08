@@ -180,7 +180,8 @@ education:
       date: 2023.7-2025.4
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
-      description: | Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, 
+      description: | 
+        Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, 
                        Virtual Instrumentation, Smart Sensors, Project Management, 
                        Data Structures and Algorithms, Fundamentals of Machine Learning
       
