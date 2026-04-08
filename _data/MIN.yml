@@ -217,53 +217,60 @@ project:
 
   items:
    
-    - name: Automated Driving for Small Cars
+    - name: Autonomous Driving System for Small-Scale Vehicles
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
+      tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
       date: 2024.2-2024.6
-      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
+      description: Developed an autonomous driving system using RoboMaster platform, 
+      implemented object detection and tracking using YOLOv5 and PP-PicoDet, 
+      designed a PID controller for motion control and target following, 
+      integrated multi-sensor data for obstacle avoidance in dynamic environments
+
         
-    - name: Voice_recognition
+    - name: Voice Recognition System
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: LBP feature, Recording visualization interface, train model, test model, python
+      tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
       date: 2024.4-2024.6
-      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, 
+      converted audio signals (WAV) into image representations for feature extraction, 
+      extracted features using Local Binary Patterns (LBP), 
+      trained and evaluated machine learning models for real-time voice recognition
 
-    - name: Facial recognition system
+    - name: Facial Recognition System
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: training model, face record, test model, python
+      tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
       date: 2023.10-2023.11
-      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
-   
-    - name: WeChat Apps for Tourism
+      description: Developed a facial recognition system using PaddlePaddle framework, performed image annotation and dataset preparation, trained and evaluated models for face identification tasks
+
+    - name: Tourism Mini Program (WeChat)
       link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: Wechat applet, javascript
+      tags: JavaScript, Frontend Development
       date: 2023.2-2023.5
-      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
+      description: Developed a tourism mini-program enabling users to explore attractions remotely, designed and implemented user interfaces using web technologies (HTML/CSS/JavaScript)
 
-    - name: Licence plate extraction system
+    - name: License Plate Detection System
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: MATLAB, Image processing
+      tags: Image Processing, MATLAB, Computer Vision
       date: 2022.3-2022.6
-      description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
- 
-    - name: Sentiment analysis 
+      description: Developed a license plate detection system using image processing techniques, applied MATLAB to locate and extract license plate regions from images
+
+    - name: Sentiment Analysis using LSTM 
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: LSTM model
+      tags: LSTM, NLP, Text Classification
       date: 2022.3-2022.6
-      description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
+      description: Built an LSTM-based model for sentiment classification, processed textual datasets and classified sentiment into positive and negative categories
 
-    - name: Image browsing APP
+    - name: Image Viewer Application (Android)
       link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: Android studio
+      tags: Android Studio, Mobile Development
       date: 2021.3-2021.6
-      description: This program is a simple image viewer app based on Android studio.
+      description: Developed a simple image viewer application using Android Studio
 
-    - name: Java applet for drawing
+    - name: Drawing Application (Java)
       link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags:  java
+      tags:  Java, GUI Development
       date: 2021.3-2021.6
-      description: This program is a Java applet for drawing.
+      description: Developed a basic drawing application using Java
 
 
 language:
