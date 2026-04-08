@@ -83,10 +83,9 @@ profile:
   order: 1
   title: Profile
   description: 
-    Master’s graduate in Embedded Artificial Intelligence with a strong background in Computer Science and Finance. 
-    Experienced in machine learning, computer vision, and multi-modal data processing, with hands-on projects involving YOLO, LSTM, and real-time systems. 
-    Skilled in Python and AI model development, with a solid understanding of data pipelines and model training.
-    Currently seeking AI / Machine Learning Engineer opportunities in Europe.
+    Master’s graduate in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
+    Skilled in machine learning and computer vision with hands-on experience in AI projects and data processing. 
+    Seeking AI / Machine Learning Engineer opportunities in Europe.
     
 experience:
   show: true
