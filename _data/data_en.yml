@@ -140,13 +140,7 @@ skill:
         - Java
         - C
         - SQL
-    - name: Data & Pipelines
-      item:
-        - Data Processing
-        - Data Annotation
-        - Data Pipelines
-        - Feature Extraction
-        - Dataset Structuring
+
     - name: Systems
       item:
         - Linux/Unix
@@ -158,17 +152,19 @@ skill:
         - PyCharm
         - VS Code
         - Docker
-    - name: Machine Learning 
-      item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
+
     - name: Frameworks & Tools
       item:
         - MATLAB
         - PaddlePaddle
         - YOLO 
-  
+    - name: Data & Pipelines
+      item:
+        - Data Processing
+        - Data Annotation
+        - Data Pipelines
+        - Feature Extraction
+        - Dataset Structuring  
    
 education:
   show: true
