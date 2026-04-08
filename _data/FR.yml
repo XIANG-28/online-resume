@@ -184,7 +184,7 @@ education:
       degree: Master
       description: | 
         
-        Major courses: Programmation embarquée en C, 
+        Cours principaux: Programmation embarquée en C, 
                         Intelligence artificielle pour systèmes intelligents, 
                         Instrumentation virtuelle, 
                         Capteurs intelligents, 
@@ -198,7 +198,7 @@ education:
       major: Informatique (GPA：3.81/4)
       degree: Licence
       description: |  
-        Major courses: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
+        Cours principaux: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
         Analyse et conception d’algorithmes, Infographie, Développement d’applications mobiles, Machine learning, etc.
 
     - institution: Shandong University of Finance and Economics, Chine
@@ -207,7 +207,7 @@ education:
       major: Finance (GPA：3.57/4)
       degree: Licence
       description: |
-        Major courses: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
+        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
                       Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
       
     
