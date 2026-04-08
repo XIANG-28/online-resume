@@ -250,10 +250,30 @@ skill:
         - Linux / Unix
         - 嵌入式系统
         - 微控制器
-    - name: Group C Skills
+    - name: 工具
       item:
-        - Skill H
-        - Skill I
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker
+        
+    - name: 机器学习
+      item:
+        - 监督学习
+        - 自然语言处理
+        - 计算机视觉
+    
+    - name: 框架与工具
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MATLAB
+    
+    - name: 数据
+      item:
+        - 数据处理
+        - 数据标注
+        - 数据管道
 
 education:
   show: true
