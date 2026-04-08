@@ -104,7 +104,7 @@ experience:
       role: Installation et maintenance de robots de service
       location: Paris
       description: |
-          Installation et mise en service sur site de robots de livraison et aspirateurs autonomes, 
+        Installation et mise en service sur site de robots de livraison et aspirateurs autonomes, 
         Débogage et maintenance des systèmes robotiques pour assurer un fonctionnement optimal, 
         Montage et démontage des composants matériels, 
         Résolution rapide des problèmes techniques post-déploiement, 
@@ -125,7 +125,7 @@ experience:
       role: Annotation de données
       location: Paris
       description: |
-         Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning, 
+        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning, 
         Prétraitement et structuration des données pour pipelines IA, 
         Optimisation de la qualité des jeux de données pour améliorer la performance des modèles sur les tâches IA
 skill:
