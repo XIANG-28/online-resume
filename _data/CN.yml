@@ -93,39 +93,38 @@ experience:
   description: |
     
   items:
-  
-  - company: 北京智谱华章
-    link: 
-    tags: 实习
-    date: 2024.08 - 2024.11
-    role: 数据标注
-    location: 远程
-    description: |
-        提升对数据的理解和处理能力。
-        学习使用各种数据标注工具。
-        为进入数据科学、机器学习、数据分析领域打下坚实的基础。
-  - company: WS TECH
-    link:
-    tags: 实习
-    date: 2024.12 - 2025.03
-    role: 服务机器人的安装与维护
-    location: 巴黎
-    description: |
-       Robotics机器人的安装和调试
-        PUDU操作系统培训
-        机器人硬件系统的组装/拆卸
-        机器人售后问题解决
-        
-  - company: WS TECH
-    link:
-    tags: 全职
-    date: 2025.5 - 2025.08
-    role: 售后技术
-    location: 巴黎
-    description: |
-        Robotics机器人的安装和调试
-        机器人售后技术问题解决
-        点单系统售后技术问题
+    
+    - company: WS TECH
+      link:
+      tags: 全职
+      date: 2025.5 - 2025.08
+      role: 售后技术
+      location: 巴黎
+      description: |
+           Robotics机器人的安装和调试，
+          PUDU操作系统培训，
+          机器人硬件系统的组装/拆卸，
+          机器人售后问题解决
+
+    - company: WS TECH
+      link:
+      tags: 实习
+      date: 2024.12 - 2025.03
+      role: 服务机器人的安装与维护
+      location: 巴黎
+      description: |
+      
+          
+    - company: 北京智谱华章
+      link: 
+      tags: 实习
+      date: 2024.08 - 2024.11
+      role: 数据标注
+      location: 远程
+      description: |
+          提升对数据的理解和处理能力，
+          学习使用各种数据标注工具，
+          为进入数据科学、机器学习、数据分析领域打下坚实的基础。
         
     # - company: Second Company
     #   link: '#'
@@ -151,7 +150,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 6
   title: 项目
   description: |
 
@@ -218,47 +217,47 @@ skill:
   title: 技能
   description: |
   
-  items:
-    - name: JavaScript
-      level: 4
-    - name: python
-      level: 4
-    - name: MATLAB
-      level: 4
-    - name: Linux
-      level: 4
-    - name: Android Studio
-      level: 3
-    - name: C
-      level: 4
-    - name: JAVA
-      level: 4
-    - name: Machine Learning
-      level: 5
-    - name: labview
-      level: 4
+  # items:
+  #   - name: JavaScript
+  #     level: 4
+  #   - name: python
+  #     level: 4
+  #   - name: MATLAB
+  #     level: 4
+  #   - name: Linux
+  #     level: 4
+  #   - name: Android Studio
+  #     level: 3
+  #   - name: C
+  #     level: 4
+  #   - name: JAVA
+  #     level: 4
+  #   - name: Machine Learning
+  #     level: 5
+  #   - name: labview
+  #     level: 4
 
 
-  # groups:
-  #   - name: Group A Skills
-  #     item:
-  #       - Skill A
-  #       - Skill B
-  #       - Skill C
-  #       - Skill D
-  #   - name: Group B Skills
-  #     item:
-  #       - Skill E
-  #       - Skill F
-  #       - Skill G
-  #   - name: Group C Skills
-  #     item:
-  #       - Skill H
-  #       - Skill I
+  groups:
+    - name: 编程语言
+      item:
+        - C
+        - Java
+        - Python
+        - SQL
+    - name: 系统
+      item:
+        - Linux / Unix
+        - 嵌入式系统
+        - 微控制器
+    - name: Group C Skills
+      item:
+        - Skill H
+        - Skill I
 
 education:
   show: true
-  order: 5
+  order: 3
   title: 教育
   description: |
   
@@ -266,7 +265,7 @@ education:
     - institution: Esigelec(France)
       link: 
       date: 2023.7-2025.3
-      major: 嵌入式人工智能
+      major: 嵌入式人工智能（成绩：15.59/20）
       degree: 硕士
       description: |
         主要课程：深度学习、微控制器及其应用、智能传感器、项目管理等。
@@ -274,16 +273,16 @@ education:
     - institution: 山东财经大学
       link:
       date: 2019.9-2023.6
-      major: 计算机科学与技术
+      major: 计算机科学与技术（GPA：3.81）
       degree: 学士
       description: |
-        GPA：3.81
+        
         主要课程：C、java、python、数据库、并行分布式计算、移动应用开发、机器学习、网络攻防原理等。
       
     - institution: 山东财经大学
       link:
       date: 2020.9-2023.6
-      major: 金融学
+      major: 金融学（GPA：3.59）
       degree: 学士
       description: |
 
@@ -398,7 +397,7 @@ award:
 
 language:
   show: true
-  order: 11
+  order: 5
   title: 语言
   description: |
 
@@ -406,9 +405,9 @@ language:
     - idiom: 中文
       level: 母语
     - idiom: 英语
-      level: 专业
+      level: B2
     - idiom: 法语
-      level: 对话
+      level: A2
 
 # interest:
 #   show: true
@@ -422,14 +421,14 @@ language:
 #     - item: Cooking
 #       link:
 
-evaluation:
-  show: true
-  order: 13
-  title: 自我评价
-  description: |
-    ENFP，乐观开朗，喜欢学习新事物和探索创新解决方案。
-    我在担任各种学术项目组长的过程中展现出了强大的组织能力和领导才能。这段经历磨练了我独立管理任务的能力，同时确保了高质量的成果。
-    乐于助人，喜欢与不同的人互动和交流。
+# evaluation:
+#   show: true
+#   order: 13
+#   title: 自我评价
+#   description: |
+#     ENFP，乐观开朗，喜欢学习新事物和探索创新解决方案。
+#     我在担任各种学术项目组长的过程中展现出了强大的组织能力和领导才能。这段经历磨练了我独立管理任务的能力，同时确保了高质量的成果。
+#     乐于助人，喜欢与不同的人互动和交流。
 
 # reference:
 #   show: true
