@@ -134,19 +134,43 @@ skill:
   title: Skills
   description: |
   
-  items:
-
-  - name: Supervised Learning, LSTM, Computer Vision 
+  groups:
+    - name: Programming Languages
+      item:
+        - Python
+        - Java
+        - C
+        - SQL
+    - name: Systems
+      item:
+        - Linux/Unix
+        - Embedded Systems
+        - Microcontrollers 
+    - name: Tools
+      item:
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker
+        
+    - name: Machine Learning
+      item:
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
+    
+    - name: Frameworks & Tools
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MATLAB
+    
+    - name: Data
+      item:
+        - Data Processing
+        - Data Annotation
+        - Data Pipelines
   
-  - name:  Python, C, Java, SQL  
-
-  - name: Data Processing, Data Annotation, Data Pipelines 
-
-  - name: Git, Docker, VS Code, PyCharm 
-  
-  - name: YOLO, PaddlePaddle, MATLAB 
-  
-  - name: Linux/Unix, Embedded Systems, Microcontrollers   
   
    
 education:
