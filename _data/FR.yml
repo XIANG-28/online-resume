@@ -161,13 +161,13 @@ skill:
         - Traitement de Données
         - Annotation de Données
         - Pipelines IA
-     - name: Outils de Développement
+        
+    - name: Outils de Développement
       item:
         - Git
         - PyCharm  
         - VS Code
         - Docker  
-
    
 
 education:
