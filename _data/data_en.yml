@@ -133,38 +133,6 @@ skill:
   title: Skills
   description: |
   
-  # items:
-  # - name: C
-  #   level: 4
-  # - name: JAVA
-  #   level: 4
-  # - name: Python
-  #   level: 5
-  # - name: SQL
-  #   level: 3
-  # - name: MATLAB
-  #   level: 4
-  # - name: Linux/ Unix
-  #   level: 4
-  # - name: Git
-  #   level: 3
-  # - name: VS Code
-  #   level: 5 
-  # - name: PyCharm
-  #   level: 5  
-  # - name: Embedded Systems
-  #   level: 4
-  # - name: Docker
-  #   level: 3   
-  # - name: Microcontrollers
-  #   level: 4       
-  # - name: Machine Learning
-  #   level: 5
-  # - name: Data Processing
-  #   level: 4      
-  # - name: JavaScript
-  #   level: 3  
-
   groups:
     - name: Programming Languages
       item:
@@ -251,56 +219,44 @@ project:
   description: |
 
   items:
-   
-    - name: Autonomous Driving System for Small-Scale Vehicles
+    - name: Autonomous Driving Data Pipeline
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
+      tags: Data Processing, Sensor Data, Pipeline, Python
       date: 2024.2-2024.6
-      description: Developed an autonomous driving system using RoboMaster platform, implemented object detection and tracking using YOLOv5 and PP-PicoDet, designed a PID controller for motion control and target following, integrated multi-sensor data for obstacle avoidance in dynamic environments
-
-        
-    - name: Voice Recognition System
+      description: Collected and structured sensor data from RoboMaster vehicles, 
+                   Annotated objects and target tracking data, 
+                   Built pipelines for preprocessing and integration of multi-sensor datasets
+                   
+    - name: Voice Recognition Data Pipeline
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
+      tags: Data Annotation, Feature Extraction, Pipeline, Python
       date: 2024.4-2024.6
-      description: Annotated image, text, and audio data for machine learning tasks, 
-                   Preprocessed datasets and organized them for pipeline integration, 
-                   Extracted features and stored structured data for downstream applications
-    - name: Facial Recognition System
+      description: Annotated audio, image, and text datasets for ML tasks, 
+                   Preprocessed and structured data for pipeline integration, 
+                   Extracted features and stored processed datasets for downstream applications
+
+    - name: Facial Recognition Data Preparation
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
+      tags: Data Annotation, Data Structuring, Python, PaddlePaddle
       date: 2023.10-2023.11
-      description: Developed a facial recognition system using PaddlePaddle framework, performed image annotation and dataset preparation, trained and evaluated models for face identification tasks
+      description: Annotated facial images and prepared structured datasets, 
+                   Ensured data quality for model training and pipeline integration
 
-    - name: Tourism Mini Program (WeChat)
-      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: JavaScript, Frontend Development
-      date: 2023.2-2023.5
-      description: Developed a tourism mini-program enabling users to explore attractions remotely, designed and implemented user interfaces using web technologies (HTML/CSS/JavaScript)
-
-    - name: License Plate Detection System
+    - name: License Plate Dataset Processing
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: Image Processing, MATLAB, Computer Vision
+      tags: Image Data Processing, MATLAB
       date: 2022.3-2022.6
-      description: Developed a license plate detection system using image processing techniques, applied MATLAB to locate and extract license plate regions from images
+      description: Processed vehicle images for license plate detection, 
+                   Extracted relevant features, 
+                   Structured datasets for downstream analysis
 
-    - name: Sentiment Analysis using LSTM 
+    - name: Sentiment Analysis Dataset Preparation
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: LSTM, NLP, Text Classification
+      tags: Text Data Processing, NLP, LSTM, Python
       date: 2022.3-2022.6
-      description: Built an LSTM-based model for sentiment classification, processed textual datasets and classified sentiment into positive and negative categories
-
-    - name: Image Viewer Application (Android)
-      link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: Android Studio, Mobile Development
-      date: 2021.3-2021.6
-      description: Developed a simple image viewer application using Android Studio
-
-    - name: Drawing Application (Java)
-      link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags:  Java, GUI Development
-      date: 2021.3-2021.6
-      description: Developed a basic drawing application using Java
+      description: Collected and preprocessed text data, 
+                   Annotated sentiment labels, 
+                   Structured datasets for model training and testing
 
 
 language:
