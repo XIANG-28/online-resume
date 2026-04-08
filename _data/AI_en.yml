@@ -222,7 +222,7 @@ project:
 language:
   show: true
   order: 5
-title: Languages
+  title: Languages
   description: |
 
   items:
