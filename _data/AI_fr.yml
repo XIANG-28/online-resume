@@ -84,10 +84,9 @@ profile:
   order: 1
   title: Profile
   description: 
-    Diplômée d’un Master en Intelligence Artificielle Embarquée, avec une solide formation en informatique et finance, 
-   Compétences en apprentissage automatique, vision par ordinateur et traitement de données, 
-   Expérience pratique sur des projets IA et annotation de données multimodales, 
-   À la recherche d’opportunités en tant qu’ingénieure en Intelligence Artificielle / Machine Learning en Europe
+    Diplômée d’un master en Intelligence Artificielle Embarquée, avec formation en informatique et finance, 
+    Compétences en machine learning, vision par ordinateur et traitement de données, 
+    À la recherche d’opportunités en Europe dans le domaine de l’IA et du Machine Learning.
 
     
 experience:
@@ -104,11 +103,10 @@ experience:
       role: Installation et maintenance de robots de service
       location: Paris
       description: |
-        Installation et mise en service sur site de robots de livraison et aspirateurs autonomes, 
-        Débogage et maintenance des systèmes robotiques pour assurer un fonctionnement optimal, 
-        Montage et démontage des composants matériels, 
-        Résolution rapide des problèmes techniques post-déploiement, 
-        Formation pratique au système d’exploitation PUDU et aux procédures de déploiement
+        Installation et configuration de robots (livraison, aspirateurs autonomes), 
+                    Debugging et résolution de problèmes techniques, 
+                    Montage/démontage des composants robotiques, 
+                    Formation au système PUDU
         
     - company: WS TECH
       link:
@@ -126,8 +124,8 @@ experience:
       location: Paris
       description: |
         Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning, 
-        Prétraitement et structuration des données pour pipelines IA, 
-        Optimisation de la qualité des jeux de données pour améliorer la performance des modèles sur les tâches IA
+                    Prétraitement et structuration des données pour pipelines IA, 
+                    Création de jeux de données fiables pour modèles IA
 skill:
   show: true
   order: 4
@@ -196,16 +194,14 @@ education:
       major: Informatique (GPA：3.81/4)
       degree: Licence
       description: |  
-        Cours principaux : Mathématiques avancées, Algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, Systèmes d’exploitation, Analyse et conception d’algorithmes, Développement d’applications mobiles, Machine learning, Infographie, etc.
-
+        
     - institution: Shandong University of Finance and Economics, Chine
       link:
       date: 2020.9-2023.6
       major: Finance (GPA：3.57/4)
       degree: Licence
       description: |
-        Cours principaux : Microéconomie, Économie internationale, Statistiques, Assurance, Comptabilité, Ingénierie financière, Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
-    
+       
 project:
   show: true
   order: 6
