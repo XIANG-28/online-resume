@@ -78,15 +78,14 @@ contact:
   zhihu:                   # username          | https://www.zhihu.com/people/username
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
-
 profile:
   show: true
   order: 1
   title: Profile
   description: 
-    Master’s student in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
-    Experienced in multi-modal data annotation and AI data pipelines. 
-    Passionate about AI applications and software development, currently seeking opportunities in Europe.
+    Master’s student in Embedded Artificial Intelligence with a strong background in Computer Science and Finance. 
+    Experienced in multi-modal data annotation, AI pipelines, and embedded systems development. 
+    Passionate about robotics, AI applications, and software development, seeking opportunities in Embedded AI and Robotics in Europe.
     
 experience:
   show: true
@@ -97,74 +96,43 @@ experience:
   items:
     - company: WS TECH
       link:
-      tags: full time
+      tags: Full-time
       date: 2025.05 - 2025.08
-      role: Installation and Maintenance of a Service Robot
+      role: Installation and Maintenance of Service Robots
       location: Paris
       description: |
-          On-site installation and debugging of food delivery robots & robot vacuum cleaners;
-          Robot hardware system assembly and disassembly;
-          Robot after-sales issues;
-          PUDU operating system training.
+          On-site installation, assembly, and debugging of food delivery robots and autonomous vacuum cleaners;
+          Performed hardware assembly and disassembly, troubleshooting, and after-sales support;
+          Configured and calibrated sensors and robot subsystems;
+          Trained in PUDU operating system and robot operation.
         
     - company: WS TECH
       link:
-      tags: internship, full time
+      tags: Internship, Full-time
       date: 2024.12 - 2025.03
-      role: Installation and Maintenance of a Service Robot
+      role: Service Robot Technician Intern
       location: Paris
       description: |
-        
+          Assisted in robot installation and maintenance;
+          Collected and analyzed sensor data for debugging and performance evaluation;
+          Supported embedded AI integration in robotic platforms.
+
     - company: Beijing Zhipu Huazhang Technology
       link: 
-      tags: internship, full time, remote
+      tags: Internship, Full-time, Remote
       date: 2024.08 - 2024.12
-      role: Data Annotation
+      role: Data Annotation for AI
       location: Paris
       description: |
-        Performed annotation of multi-modal data for machine learning model training; 
-        Contributed to data preprocessing and dataset structuring for AI pipelines; 
-        Supported the development of reliable training datasets for downstream AI tasks          
-
+          Annotated multi-modal data (images, text, web content) for machine learning training;
+          Contributed to preprocessing, cleaning, and structuring datasets for AI pipelines;
+          Supported embedded AI tasks by providing high-quality datasets.
 
 skill:
   show: true
   order: 4
   title: Skills
   description: |
-  
-  # items:
-  # - name: C
-  #   level: 4
-  # - name: JAVA
-  #   level: 4
-  # - name: Python
-  #   level: 5
-  # - name: SQL
-  #   level: 3
-  # - name: MATLAB
-  #   level: 4
-  # - name: Linux/ Unix
-  #   level: 4
-  # - name: Git
-  #   level: 3
-  # - name: VS Code
-  #   level: 5 
-  # - name: PyCharm
-  #   level: 5  
-  # - name: Embedded Systems
-  #   level: 4
-  # - name: Docker
-  #   level: 3   
-  # - name: Microcontrollers
-  #   level: 4       
-  # - name: Machine Learning
-  #   level: 5
-  # - name: Data Processing
-  #   level: 4      
-  # - name: JavaScript
-  #   level: 3  
-
   groups:
     - name: Programming Languages
       item:
@@ -172,43 +140,40 @@ skill:
         - Java
         - C
         - SQL
-    - name: Systems
+    - name: Embedded Systems & Hardware
       item:
+        - Microcontrollers
+        - Sensor Integration
         - Linux/Unix
-        - Embedded Systems
-        - Microcontrollers 
+        - Embedded Robotics
     - name: Tools
       item:
         - Git
         - PyCharm  
         - VS Code
         - Docker
-        
-    - name: Machine Learning
+    - name: Machine Learning & AI
       item:
         - Supervised Learning
         - LSTM
         - Computer Vision
-    
-    - name: Frameworks & Tools
+        - Embedded AI Pipelines
+    - name: Frameworks & Libraries
       item:
         - YOLO
         - PaddlePaddle
         - MATLAB
-    
     - name: Data
       item:
         - Data Processing
         - Data Annotation
         - Data Pipelines
-  
-   
+
 education:
   show: true
   order: 3
   title: Education
   description: |
-  
   items:
     - institution: ESIGELEC
       link: 
@@ -216,35 +181,26 @@ education:
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
       description: | 
-        
-        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
-        Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+        Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, 
+                       Virtual Instrumentation, Smart Sensors, Project Management, 
+                       Data Structures and Algorithms, Fundamentals of Machine Learning
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology (GPA：3.81/4)
+      major: Computer Science and Technology (GPA: 3.81/4)
       degree: Bachelor
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database, operating system, 
-        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
+        Major courses: Advanced Mathematics, Linear Algebra, Computer Principles, Computer Networks, Database Systems, Operating Systems, Algorithm Analysis and Design, Computer Graphics, Mobile Application Development, Machine Learning
 
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance (GPA：3.57/4)
+      major: Finance (GPA: 3.57/4)
       degree: Bachelor
       description: |
-    
-         Major courses: Micro Economics, International Economics, 
-         Statistics, Insurance, Accounting
-         Financial Engineering, Financial Marketing, Financial Risk Management, 
-         International Credit, Stock investment, etc.
+        Major courses: Microeconomics, International Economics, Statistics, Insurance, Accounting, Financial Engineering, Financial Marketing, Financial Risk Management, International Credit, Stock Investment
 
-      
-    
 project:
   show: true
   order: 6
@@ -252,55 +208,40 @@ project:
   description: |
 
   items:
-   
     - name: Autonomous Driving System for Small-Scale Vehicles
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
       date: 2024.2-2024.6
-      description: Developed an autonomous driving system using RoboMaster platform, implemented object detection and tracking using YOLOv5 and PP-PicoDet, designed a PID controller for motion control and target following, integrated multi-sensor data for obstacle avoidance in dynamic environments
+      description: |
+        Developed an autonomous driving system using RoboMaster platform;
+        Implemented object detection and tracking using YOLOv5 and PP-PicoDet;
+        Designed PID controllers for motion control and target following;
+        Integrated multi-sensor data for obstacle avoidance in dynamic environments.
 
-        
     - name: Voice Recognition System
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
       date: 2024.4-2024.6
-      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, converted audio signals (WAV) into image representations for feature extraction, extracted features using Local Binary Patterns (LBP), trained and evaluated machine learning models for real-time voice recognition
+      description: |
+        Built an end-to-end voice recognition pipeline from data acquisition to inference;
+        Converted audio signals (WAV) into image representations for feature extraction using LBP;
+        Trained and evaluated machine learning models for real-time voice recognition;
+        Integrated model into embedded testing systems.
 
     - name: Facial Recognition System
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
       tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
       date: 2023.10-2023.11
-      description: Developed a facial recognition system using PaddlePaddle framework, performed image annotation and dataset preparation, trained and evaluated models for face identification tasks
-
-    - name: Tourism Mini Program (WeChat)
-      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: JavaScript, Frontend Development
-      date: 2023.2-2023.5
-      description: Developed a tourism mini-program enabling users to explore attractions remotely, designed and implemented user interfaces using web technologies (HTML/CSS/JavaScript)
+      description: |
+        Annotated and prepared facial datasets;
+        Trained and evaluated face recognition models using PaddlePaddle;
+        Deployed and optimized models for embedded AI platforms.
 
     - name: License Plate Detection System
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
       tags: Image Processing, MATLAB, Computer Vision
       date: 2022.3-2022.6
-      description: Developed a license plate detection system using image processing techniques, applied MATLAB to locate and extract license plate regions from images
-
-    - name: Sentiment Analysis using LSTM 
-      link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: LSTM, NLP, Text Classification
-      date: 2022.3-2022.6
-      description: Built an LSTM-based model for sentiment classification, processed textual datasets and classified sentiment into positive and negative categories
-
-    - name: Image Viewer Application (Android)
-      link: 'https://docs.google.com/document/d/1RjQHlePJy4mV44AVGI9hpUbV6kXq0kSk/edit?usp=drive_link'
-      tags: Android Studio, Mobile Development
-      date: 2021.3-2021.6
-      description: Developed a simple image viewer application using Android Studio
-
-    - name: Drawing Application (Java)
-      link: 'https://drive.google.com/drive/folders/1m9tqqKHaioglrYeCOCpda-eu7--IGXtp?usp=drive_link'
-      tags:  Java, GUI Development
-      date: 2021.3-2021.6
-      description: Developed a basic drawing application using Java
+      description: Developed a license plate detection system using image processing techniques in MATLAB.
 
 
 language:
