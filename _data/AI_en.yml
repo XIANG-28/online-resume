@@ -160,7 +160,7 @@ education:
       link: 
       date: 2023.7-2025.4
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
-      degree: Engineer
+      degree: Master
       description: | 
         Relevant Coursework: Machine Learning, Embedded Systems, Smart Sensors, Data Structures, AI for Smart Systems  
 
@@ -168,7 +168,7 @@ education:
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology (GPA：3.81)
+      major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
 
@@ -176,7 +176,7 @@ education:
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance (GPA：3.57)
+      major: Finance (GPA：3.57/4)
       degree: Bachelor
       description: |
   
