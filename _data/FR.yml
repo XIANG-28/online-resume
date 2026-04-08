@@ -126,7 +126,6 @@ experience:
         Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
         Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
         Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
-
 skill:
   show: true
   order: 4
@@ -144,12 +143,6 @@ skill:
         - Linux/Unix
         - Systèmes Embarqués
         - Microcontrôleurs 
-    - name: Outils de Développement
-      item:
-        - Git
-        - PyCharm  
-        - VS Code
-        - Docker
         
     - name: Apprentissage Automatique
       item:
@@ -168,7 +161,12 @@ skill:
         - Traitement de Données
         - Annotation de Données
         - Pipelines IA
-   
+     - name: Outils de Développement
+      item:
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker  
 
    
 
