@@ -140,12 +140,12 @@ skill:
   
   - name:  Python, C, Java, SQL  
 
-  - name: YOLO, PaddlePaddle, MATLAB 
-
   - name: Data Processing, Data Annotation, Data Pipelines 
 
   - name: Git, Docker, VS Code, PyCharm 
-
+  
+  - name: YOLO, PaddlePaddle, MATLAB 
+  
   - name: Linux/Unix, Embedded Systems, Microcontrollers   
   
    
