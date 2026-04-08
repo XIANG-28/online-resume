@@ -1,6 +1,6 @@
 basic:
   name: XIANG LI                   # name
-  title: AI & Computer Science              # job title
+  title: AI / Machine Learning Engineer              # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
@@ -135,7 +135,7 @@ skill:
   description: |
   
   items:
-  - name: Programming Languages Python, C, Java, SQL  
+  - name: Programming Languages: Python, C, Java, SQL  
 
   - name: Machine Learning Supervised Learning, LSTM, Computer Vision 
 
