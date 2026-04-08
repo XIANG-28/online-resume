@@ -1,6 +1,6 @@
 basic:
   name: LI XIANG                   # name
-  title: AI & Computer Science              # job title
+  title:             # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
@@ -83,32 +83,33 @@ profile:
   order: 1
   title: Profile
   description: 
-    Master’s student in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
-    Experienced in multi-modal data annotation and AI data pipelines. 
-    Passionate about AI applications and software development, currently seeking opportunities in Europe.
+   Étudiante en master d’intelligence artificielle embarquée, avec une solide formation en informatique et en finance. 
+   Expérience en annotation de données multimodales et en préparation de données pour le machine learning. 
+   À la recherche d’opportunités en Europe dans le domaine de l’IA et du développement logiciel.
     
 experience:
   show: true
   order: 2
-  title: Experiences
+  title: Expériences
   description: |
 
   items:
     - company: WS TECH
       link:
-      tags: full time
+      tags: Technicienne
       date: 2025.05 - 2025.08
-      role: Installation and Maintenance of a Service Robot
+      role: Installation et maintenance de robots de service
       location: Paris
       description: |
-          On-site installation and debugging of food delivery robots & robot vacuum cleaners;
-          Robot hardware system assembly and disassembly;
-          Robot after-sales issues;
-          PUDU operating system training.
+          Installation et mise en service sur site de robots de livraison et d’aspirateurs autonomes; 
+          Diagnostic et résolution de problèmes techniques (debugging); 
+          Montage et démontage de systèmes matériels robotiques; 
+          Gestion du service après-vente et support client; 
+          Formation au système d’exploitation PUDU
         
     - company: WS TECH
       link:
-      tags: internship, full time
+      tags: Stagiaire
       date: 2024.12 - 2025.03
       role: Installation and Maintenance of a Service Robot
       location: Paris
@@ -116,20 +117,20 @@ experience:
         
     - company: Beijing Zhipu Huazhang Technology
       link: 
-      tags: internship, full time, remote
+      tags: Stagiaire, Télétravail
       date: 2024.08 - 2024.12
-      role: Data Annotation
+      role: Annotation de données
       location: Paris
       description: |
-        Performed annotation of multi-modal data for machine learning model training; 
-        Contributed to data preprocessing and dataset structuring for AI pipelines; 
-        Supported the development of reliable training datasets for downstream AI tasks          
+        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
+        Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
+        Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
 
 
 skill:
   show: true
   order: 4
-  title: Skills
+  title: Compétences techniques
   description: |
   
   items:
@@ -151,9 +152,9 @@ skill:
       level: 5 
     - name: Docker
       level: 3   
-    - name: Embedded Systems
+    - name: Systèmes embarqués
       level: 4
-    - name: Microcontrollers
+    - name: Microcontrôleurs
       level: 4       
     - name: Machine Learning
       level: 5
@@ -171,39 +172,38 @@ education:
   description: |
   
   items:
-    - institution: ESIGELEC
+    - institution: ESIGELEC, France
       link: 
       date: 2023.7-2025.4
-      major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
-      degree: Engineer
+      major: Intelligence Artificielle Embarquée (Grade:15.59/20)
+      degree: Master
       description: | 
         
-        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
-        Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+        Major courses: Programmation embarquée en C, 
+                        Intelligence artificielle pour systèmes intelligents, 
+                        Instrumentation virtuelle, 
+                        Capteurs intelligents, 
+                        Gestion de projet, 
+                        Structures de données et algorithmes,
+                        Fondamentaux du machine learning, etc.
 
-    - institution: Shandong University of Finance and Economics
+    - institution: Shandong University of Finance and Economics, Chine
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology (GPA：3.81)
-      degree: Bachelor
+      major: Informatique (GPA：3.81/4)
+      degree: Licence
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database, operating system, 
-        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
+        Major courses: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
+        Analyse et conception d’algorithmes, Infographie, Développement d’applications mobiles, Machine learning, etc.
 
-    - institution: Shandong University of Finance and Economics
+    - institution: Shandong University of Finance and Economics, Chine
       link:
       date: 2020.9-2023.6
-      major: Finance (GPA：3.57)
-      degree: Bachelor
+      major: Finance (GPA：3.57/4)
+      degree: Licence
       description: |
-    
-         Major courses: Micro Economics, International Economics, 
-         Statistics, Insurance, Accounting
-         Financial Engineering, Financial Marketing, Financial Risk Management, 
-         International Credit, Stock investment, etc.
-
+        Major courses: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
+                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
       
     
 project:
