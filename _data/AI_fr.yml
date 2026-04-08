@@ -1,9 +1,10 @@
 basic:
   name: XIANG LI                  # name
-  title: IA            # job title
+  title:             # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
+
 
 contact:
   # meta
@@ -83,11 +84,9 @@ profile:
   order: 1
   title: Profile
   description: 
-    Diplômée d’un Master en Intelligence Artificielle Embarquée, avec une solide formation en informatique et finance, 
-   Compétences en apprentissage automatique, vision par ordinateur et traitement de données, 
-   Expérience pratique sur des projets IA et annotation de données multimodales, 
-   À la recherche d’opportunités en tant qu’ingénieure en Intelligence Artificielle / Machine Learning en Europe
-
+   Étudiante en master d’intelligence artificielle embarquée, avec une solide formation en informatique et en finance. 
+   Expérience en annotation de données multimodales et en préparation de données pour le machine learning. 
+   À la recherche d’opportunités en Europe dans le domaine de l’IA et du développement logiciel.
     
 experience:
   show: true
@@ -98,16 +97,16 @@ experience:
   items:
     - company: WS TECH
       link:
-      tags: Technicienne    
+      tags: Technicienne
       date: 2025.05 - 2025.08
       role: Installation et maintenance de robots de service
       location: Paris
       description: |
-           Installation et mise en service sur site de robots de livraison et aspirateurs autonomes, 
-        Débogage et maintenance des systèmes robotiques pour assurer un fonctionnement optimal, 
-        Montage et démontage des composants matériels, 
-        Résolution rapide des problèmes techniques post-déploiement, 
-        Formation pratique au système d’exploitation PUDU et aux procédures de déploiement
+          Installation et mise en service sur site de robots de livraison et d’aspirateurs autonomes; 
+          Diagnostic et résolution de problèmes techniques (debugging); 
+          Montage et démontage de systèmes matériels robotiques; 
+          Gestion du service après-vente et support client; 
+          Formation au système d’exploitation PUDU
         
     - company: WS TECH
       link:
@@ -124,10 +123,9 @@ experience:
       role: Annotation de données
       location: Paris
       description: |
-        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning, 
-        Prétraitement et structuration des données pour pipelines IA, 
-        Optimisation de la qualité des jeux de données pour améliorer la performance des modèles sur les tâches IA
-
+        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
+        Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
+        Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
 
 skill:
   show: true
@@ -172,6 +170,8 @@ skill:
         - Pipelines IA
    
 
+   
+
 education:
   show: true
   order: 3
@@ -185,8 +185,14 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        Cours principaux : Programmation embarquée en C, Intelligence artificielle pour systèmes intelligents, Instrumentation virtuelle, 
-        Capteurs intelligents, Gestion de projet, Structures de données et algorithmes, Fondamentaux du machine learning, etc.
+        
+        Major courses: Programmation embarquée en C, 
+                        Intelligence artificielle pour systèmes intelligents, 
+                        Instrumentation virtuelle, 
+                        Capteurs intelligents, 
+                        Gestion de projet, 
+                        Structures de données et algorithmes,
+                        Fondamentaux du machine learning, etc.
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
