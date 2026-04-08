@@ -182,7 +182,24 @@ skill:
         - PyCharm  
         - VS Code
         - Docker
+        
+    - name: Machine Learning
+      item:
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
     
+    - name: Frameworks & Tools
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MATLAB
+    
+    - name: Data
+      item:
+        - Data Processing
+        - Data Annotation
+        - Data Pipelines
   
    
 education:
