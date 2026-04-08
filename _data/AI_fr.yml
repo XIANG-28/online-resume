@@ -1,6 +1,6 @@
 basic:
   name: XIANG LI                  # name
-  title:             # job title
+  title: IA            # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
@@ -144,12 +144,6 @@ skill:
         - Linux/Unix
         - Systèmes Embarqués
         - Microcontrôleurs 
-    - name: Outils de Développement
-      item:
-        - Git
-        - PyCharm  
-        - VS Code
-        - Docker
         
     - name: Apprentissage Automatique
       item:
@@ -168,7 +162,12 @@ skill:
         - Traitement de Données
         - Annotation de Données
         - Pipelines IA
-   
+     - name: Outils de Développement
+      item:
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker  
 
    
 
