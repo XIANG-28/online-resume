@@ -1,6 +1,6 @@
 basic:
   name: XIANG LI                 # name
-  title: AI & Computer Science              # job title
+  title: Data / AI Data Engineer / Data Analyst              # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
@@ -82,10 +82,11 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: 
-    Master’s student in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
-    Experienced in multi-modal data annotation and AI data pipelines. 
-    Passionate about AI applications and software development, currently seeking opportunities in Europe.
+  description:
+    Master’s graduate in Embedded Artificial Intelligence with a background in Computer Science and Finance,
+    experienced in data annotation, data preprocessing, and building AI data pipelines,
+    skilled in SQL, Python, and data processing workflows,
+    seeking Data Engineer or AI Data Specialist opportunities in Europe.
     
 experience:
   show: true
@@ -101,10 +102,10 @@ experience:
       role: Installation and Maintenance of a Service Robot
       location: Paris
       description: |
-          On-site installation and debugging of food delivery robots & robot vacuum cleaners;
-          Robot hardware system assembly and disassembly;
-          Robot after-sales issues;
-          PUDU operating system training.
+        Collected and analyzed robot operation data to support performance optimization, 
+        Monitored hardware and software systems, logged operational data for troubleshooting, 
+        Assisted in integrating sensors and data feeds into internal monitoring pipelines, 
+        Trained on PUDU system operation and data handling workflows
         
     - company: WS TECH
       link:
@@ -121,10 +122,10 @@ experience:
       role: Data Annotation
       location: Paris
       description: |
-        Performed annotation of multi-modal data for machine learning model training; 
-        Contributed to data preprocessing and dataset structuring for AI pipelines; 
-        Supported the development of reliable training datasets for downstream AI tasks          
-
+        Annotated multi-modal datasets including images, text, and web data for machine learning tasks, 
+        Preprocessed and structured datasets to support AI pipelines, 
+        Ensured data quality and consistency for robust model training, 
+        Assisted in building automated data pipelines for annotation and processing
 
 skill:
   show: true
@@ -171,35 +172,34 @@ skill:
         - Java
         - C
         - SQL
-    - name: Systems
-      item:
-        - Linux/Unix
-        - Embedded Systems
-        - Microcontrollers 
-    - name: Tools
-      item:
-        - Git
-        - PyCharm  
-        - VS Code
-        - Docker
-        
-    - name: Machine Learning
-      item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
-    
-    - name: Frameworks & Tools
-      item:
-        - YOLO
-        - PaddlePaddle
-        - MATLAB
-    
-    - name: Data
+    - name: Data & Pipelines
       item:
         - Data Processing
         - Data Annotation
         - Data Pipelines
+        - Feature Extraction
+        - Dataset Structuring
+    - name: Systems
+      item:
+        - Linux/Unix
+        - Embedded Systems
+        - Microcontrollers
+    - name: Tools
+      item:
+        - Git
+        - PyCharm
+        - VS Code
+        - Docker
+    - name: Machine Learning 
+      item:
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
+    - name: Frameworks & Tools
+      item:
+        - MATLAB
+        - PaddlePaddle
+        - YOLO 
   
    
 education:
@@ -263,8 +263,9 @@ project:
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
       date: 2024.4-2024.6
-      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, converted audio signals (WAV) into image representations for feature extraction, extracted features using Local Binary Patterns (LBP), trained and evaluated machine learning models for real-time voice recognition
-
+      description: Annotated image, text, and audio data for machine learning tasks, 
+                   Preprocessed datasets and organized them for pipeline integration, 
+                   Extracted features and stored structured data for downstream applications
     - name: Facial Recognition System
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
       tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
