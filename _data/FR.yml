@@ -126,82 +126,49 @@ experience:
         Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
         Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
 
-
 skill:
   show: true
   order: 4
-  title: Compétences techniques
+  title: Compétences
   description: |
-  
-  # items:
-  #   - name: C
-  #     level: 4
-  #   - name: JAVA
-  #     level: 4
-  #   - name: Python
-  #     level: 5
-  #   - name: SQL
-  #     level: 3
-  #   - name: MATLAB
-  #     level: 4
-  #   - name: Linux/ Unix
-  #     level: 4
-  #   - name: Git
-  #     level: 3
-  #   - name: VS Code / PyCharm
-  #     level: 5 
-  #   - name: Docker
-  #     level: 3   
-  #   - name: Systèmes embarqués
-  #     level: 4
-  #   - name: Microcontrôleurs
-  #     level: 4       
-  #   - name: Machine Learning
-  #     level: 5
-  #   - name: Data Processing
-  #     level: 4      
-  #   - name: labview
-  #     level: 4
-  #   - name: JavaScript
-  #     level: 3  
-      
   groups:
-    - name: Programming Languages
+    - name: Langages de Programmation
       item:
         - Python
         - Java
         - C
         - SQL
-    - name: Systems
+    - name: Systèmes et Matériels
       item:
         - Linux/Unix
-        - Embedded Systems
-        - Microcontrollers 
-    - name: Tools
+        - Systèmes Embarqués
+        - Microcontrôleurs 
+    - name: Outils de Développement
       item:
         - Git
         - PyCharm  
         - VS Code
         - Docker
         
-    - name: Machine Learning
+    - name: Apprentissage Automatique
       item:
-        - Supervised Learning
+        - Apprentissage Supervisé
         - LSTM
-        - Computer Vision
+        - Vision par Ordinateur
     
-    - name: Frameworks & Tools
+    - name: Frameworks et Bibliothèques
       item:
         - YOLO
         - PaddlePaddle
         - MATLAB
     
-    - name: Data
+    - name: Données et Pipelines
       item:
-        - Data Processing
-        - Data Annotation
-        - Data Pipelines
-  
+        - Traitement de Données
+        - Annotation de Données
+        - Pipelines IA
+   
+
    
 
 education:
