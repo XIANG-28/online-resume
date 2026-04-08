@@ -84,9 +84,11 @@ profile:
   order: 1
   title: Profile
   description: 
-   Étudiante en master d’intelligence artificielle embarquée, avec une solide formation en informatique et en finance. 
-   Expérience en annotation de données multimodales et en préparation de données pour le machine learning. 
-   À la recherche d’opportunités en Europe dans le domaine de l’IA et du développement logiciel.
+    Diplômée d’un Master en Intelligence Artificielle Embarquée, avec une solide formation en informatique et finance, 
+   Compétences en apprentissage automatique, vision par ordinateur et traitement de données, 
+   Expérience pratique sur des projets IA et annotation de données multimodales, 
+   À la recherche d’opportunités en tant qu’ingénieure en Intelligence Artificielle / Machine Learning en Europe
+
     
 experience:
   show: true
@@ -102,11 +104,11 @@ experience:
       role: Installation et maintenance de robots de service
       location: Paris
       description: |
-          Installation et mise en service sur site de robots de livraison et d’aspirateurs autonomes; 
-          Diagnostic et résolution de problèmes techniques (debugging); 
-          Montage et démontage de systèmes matériels robotiques; 
-          Gestion du service après-vente et support client; 
-          Formation au système d’exploitation PUDU
+          Installation et mise en service sur site de robots de livraison et aspirateurs autonomes, 
+        Débogage et maintenance des systèmes robotiques pour assurer un fonctionnement optimal, 
+        Montage et démontage des composants matériels, 
+        Résolution rapide des problèmes techniques post-déploiement, 
+        Formation pratique au système d’exploitation PUDU et aux procédures de déploiement
         
     - company: WS TECH
       link:
@@ -123,10 +125,9 @@ experience:
       role: Annotation de données
       location: Paris
       description: |
-        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
-        Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
-        Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
-
+         Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning, 
+        Prétraitement et structuration des données pour pipelines IA, 
+        Optimisation de la qualité des jeux de données pour améliorer la performance des modèles sur les tâches IA
 skill:
   show: true
   order: 4
@@ -139,12 +140,7 @@ skill:
         - Java
         - C
         - SQL
-    - name: Systèmes et Matériels
-      item:
-        - Linux/Unix
-        - Systèmes Embarqués
-        - Microcontrôleurs 
-        
+
     - name: Apprentissage Automatique
       item:
         - Apprentissage Supervisé
@@ -156,7 +152,13 @@ skill:
         - YOLO
         - PaddlePaddle
         - MATLAB
-    
+      
+    - name: Systèmes et Matériels
+      item:
+        - Linux/Unix
+        - Systèmes Embarqués
+        - Microcontrôleurs 
+            
     - name: Données et Pipelines
       item:
         - Traitement de Données
@@ -185,14 +187,8 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        
-        Major courses: Programmation embarquée en C, 
-                        Intelligence artificielle pour systèmes intelligents, 
-                        Instrumentation virtuelle, 
-                        Capteurs intelligents, 
-                        Gestion de projet, 
-                        Structures de données et algorithmes,
-                        Fondamentaux du machine learning, etc.
+        Cours principaux : Programmation embarquée en C, Intelligence artificielle pour systèmes intelligents, Instrumentation virtuelle, Capteurs intelligents, Gestion de projet, Structures de données et algorithmes, Fondamentaux du machine learning, etc.
+
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
@@ -200,8 +196,7 @@ education:
       major: Informatique (GPA：3.81/4)
       degree: Licence
       description: |  
-        Major courses: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
-        Analyse et conception d’algorithmes, Infographie, Développement d’applications mobiles, Machine learning, etc.
+        Cours principaux : Mathématiques avancées, Algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, Systèmes d’exploitation, Analyse et conception d’algorithmes, Développement d’applications mobiles, Machine learning, Infographie, etc.
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
@@ -209,9 +204,7 @@ education:
       major: Finance (GPA：3.57/4)
       degree: Licence
       description: |
-        Major courses: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
-                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
-      
+        Cours principaux : Microéconomie, Économie internationale, Statistiques, Assurance, Comptabilité, Ingénierie financière, Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
     
 project:
   show: true
@@ -245,12 +238,6 @@ project:
       date: 2023.10-2023.11
       description: Annotation de données faciales et préparation du dataset, Entraînement d’un modèle de reconnaissance faciale, Évaluation des performances du modèle
  
-    - name: WeChat Apps for Tourism
-      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
-      tags: Wechat applet, javascript
-      date: 2023.2-2023.5
-      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
-
     - name: Système d’extraction de plaques d’immatriculation
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
       tags: MATLAB, traitement d’image
