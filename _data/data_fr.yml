@@ -94,6 +94,17 @@ experience:
   title: Expériences
   description: |
   items:
+    - company: WS TECH
+      link:
+      tags: Stagiaire / Technicienne
+      date: 2024.12 - 2025.08
+      role: Support Technique et Gestion de Données
+      location: Paris
+      description: |
+        Collecte et traitement de données de capteurs sur robots autonomes
+        Diagnostic et reporting technique via analyse des logs
+        Participation à l’intégration de systèmes et à la maintenance de pipelines de données embarquées
+
     - company: Beijing Zhipu Huazhang Technology
       link: 
       tags: Stagiaire, Télétravail
@@ -106,16 +117,6 @@ experience:
         Collaboration à la création de datasets fiables pour vision par ordinateur et NLP
         Suivi et documentation des datasets pour assurer qualité et traçabilité
 
-    - company: WS TECH
-      link:
-      tags: Stagiaire / Technicienne
-      date: 2024.12 - 2025.08
-      role: Support Technique et Gestion de Données
-      location: Paris
-      description: |
-        Collecte et traitement de données de capteurs sur robots autonomes
-        Diagnostic et reporting technique via analyse des logs
-        Participation à l’intégration de systèmes et à la maintenance de pipelines de données embarquées
 
 skill:
   show: true
