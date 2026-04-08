@@ -169,11 +169,13 @@ skill:
         - Data Annotation
         - Data Pipelines
 
+   
 education:
   show: true
   order: 3
   title: Education
   description: |
+  
   items:
     - institution: ESIGELEC
       link: 
@@ -181,26 +183,29 @@ education:
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
       description: | 
-        Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning
-      
+        
+        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
+        Virtual Instrumentation, Smart Sensors, Project Management, 
+        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
-      major: Computer Science and Technology (GPA: 3.81/4)
+      major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
         Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database Systems, 
-        Operating Systems, Algorithm Analysis and Design, Computer Graphics, Mobile Application Development, Machine Learning
-        
+        Computer Principles, Computer Networks, Database, operating system, 
+        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
+
     - institution: Shandong University of Finance and Economics
       link:
       date: 2020.9-2023.6
-      major: Finance (GPA: 3.57/4)
+      major: Finance (GPA：3.57/4)
       degree: Bachelor
       description: |
-      
+    
+
 project:
   show: true
   order: 6
