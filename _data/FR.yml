@@ -5,6 +5,7 @@ basic:
     show: true                       # show or hide avatar
     path:   # avatar file path
 
+
 contact:
   # meta
   location: Paris    # location
