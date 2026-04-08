@@ -174,7 +174,14 @@ education:
       degree: Licence
       description: |  
         Cours principaux: Architecture des ordinateurs, Systèmes embarqués, Réseaux informatiques, Bases de données, Machine Learning
-
+    - institution: Shandong University of Finance and Economics, Chine
+      link:
+      date: 2020.9-2023.6
+      major: Finance (GPA：3.57/4)
+      degree: Licence
+      description: |
+        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
+                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
 project:
   show: true
   order: 6
