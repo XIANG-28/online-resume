@@ -102,10 +102,10 @@ experience:
       role: Installation and Maintenance of a Service Robot
       location: Paris
       description: |
-          Installed and configured service robots (delivery robots and robotic vacuum systems) in real-world environments;
-          Performed on-site debugging and system-level troubleshooting of robotic systems;
-          Conducted hardware assembly and disassembly of robot components;
-          Diagnosed and resolved post-deployment technical issues;
+          Installed and configured service robots (delivery robots and robotic vacuum systems) in real-world environments, 
+          Performed on-site debugging and system-level troubleshooting of robotic systems, 
+          Conducted hardware assembly and disassembly of robot components, 
+          Diagnosed and resolved post-deployment technical issues, 
           Trained in PUDU robot operating system and deployment workflows  
         
     - company: WS TECH
@@ -123,9 +123,9 @@ experience:
       role: Data Annotation
       location: Paris
       description: |
-        Annotated multi-modal datasets including image, text, and web data for machine learning model training;
-        Contributed to data preprocessing and structuring for AI pipelines;
-        Improved dataset quality to support robust model performance in downstream AI tasks        
+        Annotated multi-modal datasets including image, text, and web data for machine learning model training, 
+        Contributed to data preprocessing and structuring for AI pipelines, 
+        Improved dataset quality to support robust model performance in downstream AI tasks     
 
 
 skill:
@@ -135,36 +135,17 @@ skill:
   description: |
   
   items:
-  - name: C
-    level: 4
-  - name: JAVA
-    level: 4
-  - name: Python
-    level: 5
-  - name: SQL
-    level: 3
-  - name: MATLAB
-    level: 4
-  - name: Linux/ Unix
-    level: 4
-  - name: Git
-    level: 3
-  - name: VS Code
-    level: 5 
-  - name: PyCharm
-    level: 5  
-  - name: Embedded Systems
-    level: 4
-  - name: Docker
-    level: 3   
-  - name: Microcontrollers
-    level: 4       
-  - name: Machine Learning
-    level: 5
-  - name: Data Processing
-    level: 4      
-  - name: JavaScript
-    level: 3  
+  - name: Programming Languages: Python, C, Java, SQL  
+
+  - name: Machine Learning: Supervised Learning, LSTM, Computer Vision 
+
+  - name: Frameworks & Tools: YOLO, PaddlePaddle, MATLAB 
+
+  - name: Data: Data Processing, Data Annotation, Data Pipelines 
+
+  - name: Systems: Linux/Unix, Embedded Systems, Microcontrollers 
+
+  - name: Tools: Git, Docker, VS Code, PyCharm 
 
     
   
@@ -182,10 +163,8 @@ education:
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Engineer
       description: | 
-        
-        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
-        Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+        Relevant Coursework: Machine Learning, Embedded Systems, Smart Sensors, Data Structures, AI for Smart Systems  
+
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -193,9 +172,7 @@ education:
       major: Computer Science and Technology (GPA：3.81)
       degree: Bachelor
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database, operating system, 
-        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
+
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -203,11 +180,7 @@ education:
       major: Finance (GPA：3.57)
       degree: Bachelor
       description: |
-    
-         Major courses: Micro Economics, International Economics, 
-         Statistics, Insurance, Accounting
-         Financial Engineering, Financial Marketing, Financial Risk Management, 
-         International Credit, Stock investment, etc.
+  
 
       
     
@@ -219,35 +192,36 @@ project:
 
   items:
    
-    - name: Automated Driving for Small Cars
+    - name: Autonomous Driving System for Small-Scale Vehicles
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
+      tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
       date: 2024.2-2024.6
-      description: We use robomaster DJI to achieve track a target and follow, recognize the object and grab and avoiding fixed and moving obstacles.
-        
-    - name: Voice_recognition
-      link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: LBP feature, Recording visualization interface, train model, test model, python
-      date: 2024.4-2024.6
-      description: From recording voice as you want, convert wav to image, and then use lbp calculate the value of features and save the value as txt, use this value to train models, finally test it in real-time.
+      description: Developed an autonomous driving system using RoboMaster platform, 
+      implemented object detection and tracking using YOLOv5 and PP-PicoDet, 
+      designed a PID controller for motion control and target following, 
+      integrated multi-sensor data for obstacle avoidance in dynamic environments
 
-    - name: Facial recognition system
+        
+    - name: Voice Recognition System
+      link: 'https://github.com/XIANG-28/Voice_recognition'
+      tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
+      date: 2024.4-2024.6
+      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, 
+      converted audio signals (WAV) into image representations for feature extraction, 
+      extracted features using Local Binary Patterns (LBP), 
+      trained and evaluated machine learning models for real-time voice recognition
+
+    - name: Facial Recognition System
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: training model, face record, test model, python
+      tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
       date: 2023.10-2023.11
-      description: Based on the Baidu Flying Paddle, the face information is annotated and the model is trained so that the trained model can recognize
- 
-     - name: Licence plate extraction system
-      link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: MATLAB, Image processing
-      date: 2022.3-2022.6
-      description: Image processing techniques are utilized and MATLAB is used to lock the location of the license plate and obtain the license plate information.
- 
-    - name: Sentiment analysis 
+      description: Developed a facial recognition system using PaddlePaddle framework, performed image annotation and dataset preparation, trained and evaluated models for face identification tasks
+
+    - name: Sentiment Analysis using LSTM 
       link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
-      tags: LSTM model
+      tags: LSTM, NLP, Text Classification
       date: 2022.3-2022.6
-      description: Reviews of a product were used as a dataset to categorize sentiment into ‘positive’ and ‘negative’ categories.
+      description: Built an LSTM-based model for sentiment classification, processed textual datasets and classified sentiment into positive and negative categories
 
 
 
@@ -263,7 +237,7 @@ language:
     - idiom: English
       level: B2
     - idiom: France
-      level: A2 (learning)
+      level: A2 (currently improving)
 
 # interest:
 #   show: true
