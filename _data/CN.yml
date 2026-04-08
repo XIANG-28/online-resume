@@ -7,8 +7,8 @@ basic:
 
 contact:
   # meta
-  location: 法国   # location
-  email: lixiang202402@sina.com    # email address
+  location: 巴黎   # location
+  email: isabellelix6@gmail.com    # email address
   phone: +33-0661268448 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -84,7 +84,6 @@ profile:
   title: 概述
   description: |
     我正在寻找一份人工智能或计算机相关的工作
-    更多详细：https://xiang-28.github.io/online-resume/CN
     
 experience:
   show: true
