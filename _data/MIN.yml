@@ -132,38 +132,56 @@ skill:
   title: Skills
   description: |
   
-  items:
-  - name: C
-    level: 4
-  - name: JAVA
-    level: 4
-  - name: Python
-    level: 5
-  - name: SQL
-    level: 3
-  - name: MATLAB
-    level: 4
-  - name: Linux/ Unix
-    level: 4
-  - name: Git
-    level: 3
-  - name: VS Code
-    level: 5 
-  - name: PyCharm
-    level: 5  
-  - name: Embedded Systems
-    level: 4
-  - name: Docker
-    level: 3   
-  - name: Microcontrollers
-    level: 4       
-  - name: Machine Learning
-    level: 5
-  - name: Data Processing
-    level: 4      
-  - name: JavaScript
-    level: 3  
+  # items:
+  # - name: C
+  #   level: 4
+  # - name: JAVA
+  #   level: 4
+  # - name: Python
+  #   level: 5
+  # - name: SQL
+  #   level: 3
+  # - name: MATLAB
+  #   level: 4
+  # - name: Linux/ Unix
+  #   level: 4
+  # - name: Git
+  #   level: 3
+  # - name: VS Code
+  #   level: 5 
+  # - name: PyCharm
+  #   level: 5  
+  # - name: Embedded Systems
+  #   level: 4
+  # - name: Docker
+  #   level: 3   
+  # - name: Microcontrollers
+  #   level: 4       
+  # - name: Machine Learning
+  #   level: 5
+  # - name: Data Processing
+  #   level: 4      
+  # - name: JavaScript
+  #   level: 3  
 
+  groups:
+    - name: Programming Languages
+      item:
+        - Python
+        - Java
+        - C
+        - SQL
+    - name: Systems
+      item:
+        - Linux/Unix
+        - Embedded Systems
+        - Microcontrollers 
+    - name: Tools
+      item:
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker
     
   
    
