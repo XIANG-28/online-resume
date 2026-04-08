@@ -180,11 +180,10 @@ education:
       date: 2023.7-2025.4
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
-      description: | 
-        Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, 
+      description: | Major courses: Embedded C Programming, Artificial Intelligence for Smart Systems, 
                        Virtual Instrumentation, Smart Sensors, Project Management, 
                        Data Structures and Algorithms, Fundamentals of Machine Learning
-
+      
     - institution: Shandong University of Finance and Economics
       link:
       date: 2019.9-2023.6
@@ -199,8 +198,7 @@ education:
       major: Finance (GPA: 3.57/4)
       degree: Bachelor
       description: |
-        Major courses: Microeconomics, International Economics, Statistics, Insurance, Accounting, Financial Engineering, Financial Marketing, Financial Risk Management, International Credit, Stock Investment
-
+      
 project:
   show: true
   order: 6
@@ -210,40 +208,39 @@ project:
   items:
     - name: Autonomous Driving System for Small-Scale Vehicles
       link: 'https://github.com/XIANG-28/DJI-robomaster'
-      tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
+      tags: Embedded Systems, PID Control, Sensor Fusion, Computer Vision
       date: 2024.2-2024.6
-      description: |
-        Developed an autonomous driving system using RoboMaster platform;
-        Implemented object detection and tracking using YOLOv5 and PP-PicoDet;
-        Designed PID controllers for motion control and target following;
-        Integrated multi-sensor data for obstacle avoidance in dynamic environments.
+      description: Developed an autonomous driving system on RoboMaster platform, 
+                   Designed and tuned PID controllers for real-time motion control, 
+                   Implemented object detection and tracking using YOLOv5 and PP-PicoDet, 
+                   Integrated multi-sensor data for dynamic obstacle avoidance, 
+                   Tested and optimized algorithms for embedded deployment
 
-    - name: Voice Recognition System
+    - name: Voice Recognition System for Embedded Platforms
       link: 'https://github.com/XIANG-28/Voice_recognition'
-      tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
+      tags: Embedded Systems, Audio Processing, Feature Extraction, LBP
       date: 2024.4-2024.6
-      description: |
-        Built an end-to-end voice recognition pipeline from data acquisition to inference;
-        Converted audio signals (WAV) into image representations for feature extraction using LBP;
-        Trained and evaluated machine learning models for real-time voice recognition;
-        Integrated model into embedded testing systems.
+      description: Built a voice recognition pipeline for embedded systems, 
+                   Converted audio signals (WAV) into image representations for feature extraction using LBP, 
+                   Trained and evaluated ML models for real-time inference, 
+                   Deployed and tested models on embedded hardware
 
-    - name: Facial Recognition System
+    - name: Facial Recognition System on Embedded Devices
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
-      tags: Computer Vision, PaddlePaddle, Model Training, Image Annotation
+      tags: Embedded AI, Computer Vision, PaddlePaddle
       date: 2023.10-2023.11
-      description: |
-        Annotated and prepared facial datasets;
-        Trained and evaluated face recognition models using PaddlePaddle;
-        Deployed and optimized models for embedded AI platforms.
+      description: Annotated and prepared facial datasets for model training, 
+                   Trained and optimized facial recognition models using PaddlePaddle, 
+                   Deployed models on embedded AI devices and validated real-time performance
 
     - name: License Plate Detection System
       link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
-      tags: Image Processing, MATLAB, Computer Vision
+      tags: Embedded Systems, Image Processing, MATLAB
       date: 2022.3-2022.6
-      description: Developed a license plate detection system using image processing techniques in MATLAB.
-
-
+      description: Developed a license plate detection system in MATLAB, 
+                   Integrated image processing algorithms for real-time embedded testing, 
+                   Optimized computation for resource-constrained environments
+                   
 language:
   show: true
   order: 5
