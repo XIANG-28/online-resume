@@ -1,7 +1,7 @@
 
 basic:
   name: XIANG LI                 # name
-  title: AI & Computer Science              # job title
+  title:              # job title
   avatar:
     show: true                       # show or hide avatar
     path:   # avatar file path
