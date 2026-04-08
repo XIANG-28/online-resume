@@ -196,20 +196,14 @@ project:
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
       date: 2024.2-2024.6
-      description: Developed an autonomous driving system using RoboMaster platform, 
-      implemented object detection and tracking using YOLOv5 and PP-PicoDet, 
-      designed a PID controller for motion control and target following, 
-      integrated multi-sensor data for obstacle avoidance in dynamic environments
+      description: Developed an autonomous driving system using RoboMaster platform, implemented object detection and tracking using YOLOv5 and PP-PicoDet, designed a PID controller for motion control and target following, integrated multi-sensor data for obstacle avoidance in dynamic environments
 
         
     - name: Voice Recognition System
       link: 'https://github.com/XIANG-28/Voice_recognition'
       tags: Feature Extraction, LBP, Audio Processing, Machine Learning, Python
       date: 2024.4-2024.6
-      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, 
-      converted audio signals (WAV) into image representations for feature extraction, 
-      extracted features using Local Binary Patterns (LBP), 
-      trained and evaluated machine learning models for real-time voice recognition
+      description: Built an end-to-end voice recognition pipeline from data acquisition to inference, converted audio signals (WAV) into image representations for feature extraction, extracted features using Local Binary Patterns (LBP), trained and evaluated machine learning models for real-time voice recognition
 
     - name: Facial Recognition System
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
