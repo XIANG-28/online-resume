@@ -1,0 +1,335 @@
+basic:
+  name: XIANG LI                  # name
+  title:             # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path:   # avatar file path
+
+
+contact:
+  # meta
+  location: Paris    # location
+  email: isabellelix6@gmail.com    # email address
+  phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender: female                 # gender or pronoun
+  birthday: 2000/11/28                # birthday
+  nationality:  CHINA           # nationality
+  visa: Europe                # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat: LSUMMERX00                # username
+  whatsapp: +33-0661268448              # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github: XIANG-28                   # username          | https://github.com/username
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin: xiangli00                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube: IsabelleLi-ds9yo                # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: 
+   Étudiante en master d’intelligence artificielle embarquée, avec une solide formation en informatique et en finance. 
+   Expérience en annotation de données multimodales et en préparation de données pour le machine learning. 
+   À la recherche d’opportunités en Europe dans le domaine de l’IA et du développement logiciel.
+    
+experience:
+  show: true
+  order: 2
+  title: Expériences
+  description: |
+
+  items:
+    - company: WS TECH
+      link:
+      tags: Technicienne
+      date: 2025.05 - 2025.08
+      role: Installation et maintenance de robots de service
+      location: Paris
+      description: |
+          Installation et mise en service sur site de robots de livraison et d’aspirateurs autonomes; 
+          Diagnostic et résolution de problèmes techniques (debugging); 
+          Montage et démontage de systèmes matériels robotiques; 
+          Gestion du service après-vente et support client; 
+          Formation au système d’exploitation PUDU
+        
+    - company: WS TECH
+      link:
+      tags: Stagiaire
+      date: 2024.12 - 2025.03
+      role: Installation and Maintenance of a Service Robot
+      location: Paris
+      description: |
+        
+    - company: Beijing Zhipu Huazhang Technology
+      link: 
+      tags: Stagiaire, Télétravail
+      date: 2024.08 - 2024.12
+      role: Annotation de données
+      location: Paris
+      description: |
+        Annotation de données multimodales (images, textes, contenus web) pour l’entraînement de modèles de machine learning
+        Contribution au prétraitement et à la structuration des données pour les pipelines d’IA
+        Participation à la création de jeux de données fiables pour des tâches d’intelligence artificielle       
+skill:
+  show: true
+  order: 4
+  title: Compétences
+  description: |
+  groups:
+    - name: Langages de Programmation
+      item:
+        - Python
+        - Java
+        - C
+        - SQL
+    - name: Systèmes et Matériels
+      item:
+        - Linux/Unix
+        - Systèmes Embarqués
+        - Microcontrôleurs 
+        
+    - name: Apprentissage Automatique
+      item:
+        - Apprentissage Supervisé
+        - LSTM
+        - Vision par Ordinateur
+    
+    - name: Frameworks et Bibliothèques
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MATLAB
+    
+    - name: Données et Pipelines
+      item:
+        - Traitement de Données
+        - Annotation de Données
+        - Pipelines IA
+        
+    - name: Outils de Développement
+      item:
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker  
+   
+
+education:
+  show: true
+  order: 3
+  title: Education
+  description: |
+  
+  items:
+    - institution: ESIGELEC, France
+      link: 
+      date: 2023.7-2025.4
+      major: Intelligence Artificielle Embarquée (Grade:15.59/20)
+      degree: Master
+      description: | 
+        
+        Cours principaux: Programmation embarquée en C, 
+                        Intelligence artificielle pour systèmes intelligents, 
+                        Instrumentation virtuelle, 
+                        Capteurs intelligents, 
+                        Gestion de projet, 
+                        Structures de données et algorithmes,
+                        Fondamentaux du machine learning, etc.
+
+    - institution: Shandong University of Finance and Economics, Chine
+      link:
+      date: 2019.9-2023.6
+      major: Informatique (GPA：3.81/4)
+      degree: Licence
+      description: |  
+        Cours principaux: Mathématiques avancées, algèbre linéaire, Architecture des ordinateurs, Réseaux informatiques, Bases de données, systèmes d’exploitation, 
+        Analyse et conception d’algorithmes, Infographie, Développement d’applications mobiles, Machine learning, etc.
+
+    - institution: Shandong University of Finance and Economics, Chine
+      link:
+      date: 2020.9-2023.6
+      major: Finance (GPA：3.57/4)
+      degree: Licence
+      description: |
+        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
+                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
+      
+    
+project:
+  show: true
+  order: 6
+  title: Projects
+  description: |
+
+  items:
+   
+    - name: Système de conduite autonome pour véhicule miniature
+      link: 'https://github.com/XIANG-28/DJI-robomaster'
+      tags: PID, YOLOv5, PP-PicoDet, capteurs, MediaPipe
+      date: 2024.2-2024.6
+      description: Développement d’un système de suivi de cible et de navigation autonome basé sur RoboMaster DJI; 
+                  Implémentation de la détection d’objets et du suivi en temps réel; 
+                  Intégration de capteurs pour l’évitement d’obstacles statiques et dynamiques; 
+                  Conception d’un système de préhension (object grabbing)
+        
+    - name: Système de reconnaissance vocale basé sur l’analyse d’images
+      link: 'https://github.com/XIANG-28/Voice_recognition'
+      tags: Python, LBP
+      date: 2024.4-2024.6
+      description: Conversion de signaux audio (WAV) en représentations visuelles;
+                    Extraction de caractéristiques via la méthode LBP;
+                    Entraînement et évaluation de modèles de reconnaissance;
+                    Implémentation d’un système de test en temps réel
+
+    - name: Système de reconnaissance faciale
+      link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
+      tags: PaddlePaddle, Python
+      date: 2023.10-2023.11
+      description: Annotation de données faciales et préparation du dataset, Entraînement d’un modèle de reconnaissance faciale, Évaluation des performances du modèle
+ 
+    - name: WeChat Apps for Tourism
+      link: 'https://docs.google.com/document/d/1Hk8eCb1yqR8LwmuI5j7h_hW_zFnyEZXV/edit?usp=drive_link'
+      tags: Wechat applet, javascript
+      date: 2023.2-2023.5
+      description: The same principle as the web page HTML, CSS, to produce a visual so that people can not leave home to browse the tourist attractions of the micro-mini program.
+
+    - name: Système d’extraction de plaques d’immatriculation
+      link: 'https://drive.google.com/drive/folders/1bTnUJlzLfmlKSGLEdBO1l_7LAx2CELe_?usp=drive_link'
+      tags: MATLAB, traitement d’image
+      date: 2022.3-2022.6
+      description: Détection et localisation de plaques à partir d’images, Extraction d’informations à l’aide de techniques de traitement d’image
+
+    - name: Analyse de sentiments basée sur LSTM
+      link: 'https://docs.google.com/document/d/1L9rYVt1Kebj4iQH-tv8rXMJ3XY4GQvok/edit?usp=drive_link&ouid=116816605195789400647&rtpof=true&sd=true'
+      tags: LSTM model
+      date: 2022.3-2022.6
+      description: Classification de textes en sentiments positifs et négatifs, Utilisation de modèles de deep learning pour le traitement du langage naturel
+
+
+
+language:
+  show: true
+  order: 5
+  title: Langues
+  description: |
+
+  items:
+    - idiom: Chinois
+      level: langue maternelle
+    - idiom: Anglais
+      level: niveau B2
+    - idiom: Français
+      level: niveau A2 (en cours d’apprentissage)
+
+# interest:
+#   show: true
+#   order: 12
+#   title: Interests
+#   description: |
+
+#   items:
+#     - item: Reading
+#       link: '#'
+#     - item: Cooking
+#       link:
+
+# evaluation:
+#   show: true
+#   order: 7
+#   title: Self-evaluation
+#   description: |
+#    ENFP, an optimistic and cheerful individual who thrives on learning new things and exploring innovative solutions. 
+#    I have demonstrated strong organizational skills and leadership qualities through my experience as a group leader in various academic projects. This experience has honed my ability to manage tasks independently while ensuring high-quality outcomes. 
+#    I like to interact and communicate with different people.
+
+# reference:
+#   show: true
+#   order: 14
+#   title: References
+#   description: |
+#     A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+
+#     It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
+
+#     When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
+
+#     It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
+
+#   items:
+#     - name: Foo One
+#       link: '#'
+#       title: Backend Developer
+#       institution: Second Company
+#       address: 1234 Example St, XXX, XY 11111
+#       email: foo.one@example.com
+#       phone: 111-222-333
+#       description: |
+#         Foo One was my colleague in Second Company.
+
+#     - name: Bar Two
+#       link:
+#       title: Professor
+#       institution: Example University
+#       address: 4321 Example St, YYY, XY 22222
+#       email: bar.two@example.com
+#       phone: 444-555-666
+#       description: |
+#         Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>
