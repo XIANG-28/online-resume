@@ -134,32 +134,73 @@ skill:
   description: |
   
   groups:
+
     - name: Programming Languages
       item:
         - Python
         - Java
         - C
         - SQL
-    - name: Systems & Platforms
+    
+    - name: Data Engineering & Data Processing
       item:
-        - Linux/Unix
-        - AWS
-        - Embedded Systems
-        - Microcontrollers 
-    - name: Tools
-      item:
-        - Git
-        - CI/CD
-        - MLflow
-        - Docker
-        
-    - name: Machine Learning
+        - Pandas, NumPy
+        - Spark / PySpark (basic)
+        - ETL Pipelines (data preprocessing, structuring)
+        - Data Annotation
+        - Data Pipelines
+    
+    - name: Machine Learning & AI
       item:
         - Supervised Learning
-        - Spark
+        - LSTM
+        - Computer Vision
         - PyTorch, TensorFlow
-        - Pandas
     
+    - name: AI Frameworks & Tools
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MLflow (experiment tracking)
+    
+    - name: DevOps & Tools
+      item:
+        - Git
+        - Docker
+        - CI/CD (basic)
+    
+    - name: Systems & Cloud
+      item:
+        - Linux / Unix
+        - AWS (basic, SageMaker)
+        - Embedded Systems
+        - Microcontrollers
+        - name: Programming Languages
+          item:
+            - Python
+            - Java
+            - C
+            - SQL
+        - name: Systems & Platforms
+          item:
+            - Linux/Unix
+            - AWS
+            - Embedded Systems
+            - Microcontrollers 
+        - name: Tools
+          item:
+            - Git
+            - CI/CD
+            - MLflow
+            - Docker
+            
+        - name: Machine Learning
+          item:
+            - Supervised Learning
+            - Spark
+            - PyTorch, TensorFlow
+            - Pandas
+        
 
   
   
