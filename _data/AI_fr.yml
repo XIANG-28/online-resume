@@ -139,14 +139,6 @@ skill:
         - C
         - SQL
     
-    - name: Data Engineering & Traitement des Données
-      item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
-        - Data Pipelines
-    
     - name: Machine Learning & IA
       item:
         - Supervised Learning
@@ -172,6 +164,14 @@ skill:
         - AWS 
         - Embedded Systems
         - Microcontrollers
+
+    - name: Data Engineering & Traitement des Données
+      item:
+        - Pandas, NumPy
+        - Spark / PySpark 
+        - ETL Pipelines 
+        - Data Annotation
+        - Data Pipelines
     
   
 
