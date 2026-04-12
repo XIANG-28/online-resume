@@ -138,39 +138,42 @@ skill:
         - Java
         - C
         - SQL
-
-    - name: Apprentissage Automatique
-      item:
-        - Apprentissage Supervisé
-        - LSTM
-        - Vision par Ordinateur
     
-    - name: Frameworks et Bibliothèques
+    - name: Data Engineering & Traitement des Données
+      item:
+        - Pandas, NumPy
+        - Spark / PySpark (bases)
+        - ETL Pipelines (data preprocessing, structuration)
+        - Data Annotation
+        - Data Pipelines
+    
+    - name: Machine Learning & IA
+      item:
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
+        - PyTorch, TensorFlow
+    
+    - name: Frameworks & Outils IA
       item:
         - YOLO
         - PaddlePaddle
-        - MATLAB
-      
-    - name: Systèmes et Matériels
-      item:
-        - Linux/Unix
-        - Systèmes Embarqués
-        - Microcontrôleurs 
-            
-    - name: Données et Pipelines
-      item:
-        - Traitement de Données
-        - Annotation de Données
-        - Pipelines IA
-        
-    - name: Outils de Développement
+        - MLflow (experiment tracking)
+    
+    - name: DevOps & Outils
       item:
         - Git
-        - PyCharm  
-        - VS Code
-        - Docker  
-
-   
+        - Docker
+        - CI/CD (bases)
+    
+    - name: Systèmes & Cloud
+      item:
+        - Linux / Unix
+        - AWS (bases, SageMaker)
+        - Embedded Systems
+        - Microcontrollers
+    
+  
 
 education:
   show: true
