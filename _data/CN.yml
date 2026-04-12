@@ -163,8 +163,7 @@ project:
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID controller, MediaPipe, YOLOv5, PP-PicoDet, sensors, Target Detection Function
       date: 2024.2-2024.6
-      description: 基于 RoboMaster 平台开发自动驾驶系统，实现目标跟踪与自主导航；使用 YOLOv5 与 PP-PicoDet 完成目标检测与实时跟踪；设计并实现 PID 控制算法，用于运动控制与路径跟踪；
-      融合多传感器数据，实现动态环境下的障碍物检测与避障
+      description: 基于 RoboMaster 平台开发自动驾驶系统，实现目标跟踪与自主导航；使用 YOLOv5 与 PP-PicoDet 完成目标检测与实时跟踪；设计并实现 PID 控制算法，用于运动控制与路径跟踪；融合多传感器数据，实现动态环境下的障碍物检测与避障
 
     - name: 面部识别系统
       link: 'https://drive.google.com/drive/folders/1i3PMFVIX9c8CiOubyuddRyLPYLeVi9bq?usp=drive_link'
