@@ -145,8 +145,8 @@ skill:
     - name: Data Engineering & Data Processing
       item:
         - Pandas, NumPy
-        - Spark / PySpark (basic)
-        - ETL Pipelines (data preprocessing, structuring)
+        - Spark / PySpark 
+        - ETL Pipelines 
         - Data Annotation
         - Data Pipelines
     
@@ -161,48 +161,21 @@ skill:
       item:
         - YOLO
         - PaddlePaddle
-        - MLflow (experiment tracking)
+        - MLflow 
     
     - name: DevOps & Tools
       item:
         - Git
         - Docker
-        - CI/CD (basic)
+        - CI/CD
     
     - name: Systems & Cloud
       item:
         - Linux / Unix
-        - AWS (basic, SageMaker)
+        - AWS 
         - Embedded Systems
         - Microcontrollers
-        - name: Programming Languages
-          item:
-            - Python
-            - Java
-            - C
-            - SQL
-        - name: Systems & Platforms
-          item:
-            - Linux/Unix
-            - AWS
-            - Embedded Systems
-            - Microcontrollers 
-        - name: Tools
-          item:
-            - Git
-            - CI/CD
-            - MLflow
-            - Docker
-            
-        - name: Machine Learning
-          item:
-            - Supervised Learning
-            - Spark
-            - PyTorch, TensorFlow
-            - Pandas
-        
 
-  
   
    
 education:
