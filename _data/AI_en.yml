@@ -140,35 +140,27 @@ skill:
         - Java
         - C
         - SQL
-    - name: Systems
+    - name: Systems & Platforms
       item:
         - Linux/Unix
+        - AWS
         - Embedded Systems
         - Microcontrollers 
     - name: Tools
       item:
         - Git
-        - PyCharm  
-        - VS Code
+        - CI/CD
+        - MLflow
         - Docker
         
     - name: Machine Learning
       item:
         - Supervised Learning
-        - LSTM
-        - Computer Vision
+        - Spark
+        - PyTorch, TensorFlow
+        - Pandas
     
-    - name: Frameworks & Tools
-      item:
-        - YOLO
-        - PaddlePaddle
-        - MATLAB
-    
-    - name: Data
-      item:
-        - Data Processing
-        - Data Annotation
-        - Data Pipelines
+
   
   
    
