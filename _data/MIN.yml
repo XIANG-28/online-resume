@@ -163,41 +163,46 @@ skill:
   #   level: 4      
   # - name: JavaScript
   #   level: 3  
-
   groups:
+
     - name: Programming Languages
       item:
         - Python
         - Java
         - C
         - SQL
-    - name: Systems
-      item:
-        - Linux/Unix
-        - Embedded Systems
-        - Microcontrollers 
-    - name: Tools
-      item:
-        - Git
-        - PyCharm  
-        - VS Code
-        - Docker
-        
-    - name: Machine Learning
+    
+    - name: Machine Learning & AI
       item:
         - Supervised Learning
         - LSTM
         - Computer Vision
+        - PyTorch, TensorFlow
     
-    - name: Frameworks & Tools
+    - name: AI Frameworks & Tools
       item:
         - YOLO
         - PaddlePaddle
-        - MATLAB
+        - MLflow 
     
-    - name: Data
+    - name: DevOps & Tools
       item:
-        - Data Processing
+        - Git
+        - Docker
+        - CI/CD
+    
+    - name: Systems & Cloud
+      item:
+        - Linux / Unix
+        - AWS 
+        - Embedded Systems
+        - Microcontrollers
+    
+    - name: Data Engineering & Data Processing
+      item:
+        - Pandas, NumPy
+        - Spark / PySpark 
+        - ETL Pipelines 
         - Data Annotation
         - Data Pipelines
   
