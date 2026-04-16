@@ -127,6 +127,7 @@ experience:
         Ensured data quality and consistency for robust model training, 
         Assisted in building automated data pipelines for annotation and processing
 
+
 skill:
   show: true
   order: 4
@@ -134,37 +135,48 @@ skill:
   description: |
   
   groups:
+
     - name: Programming Languages
       item:
         - Python
         - Java
         - C
         - SQL
-
-    - name: Systems
+    
+    - name: Machine Learning & AI
       item:
-        - Linux/Unix
-        - Embedded Systems
-        - Microcontrollers
-    - name: Tools
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
+        - PyTorch, TensorFlow
+    
+    - name: AI Frameworks & Tools
+      item:
+        - YOLO
+        - PaddlePaddle
+        - MLflow 
+    
+    - name: DevOps & Tools
       item:
         - Git
-        - PyCharm
-        - VS Code
         - Docker
-
-    - name: Frameworks & Tools
+        - CI/CD
+    
+    - name: Systems & Cloud
       item:
-        - MATLAB
-        - PaddlePaddle
-        - YOLO 
-    - name: Data & Pipelines
+        - Linux / Unix
+        - AWS 
+        - Embedded Systems
+        - Microcontrollers
+    
+    - name: Data Engineering & Data Processing
       item:
-        - Data Processing
+        - Pandas, NumPy
+        - Spark / PySpark 
+        - ETL Pipelines 
         - Data Annotation
         - Data Pipelines
-        - Feature Extraction
-        - Dataset Structuring  
+
    
 education:
   show: true
