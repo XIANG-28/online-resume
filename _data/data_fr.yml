@@ -117,7 +117,6 @@ experience:
         Collaboration à la création de datasets fiables pour vision par ordinateur et NLP
         Suivi et documentation des datasets pour assurer qualité et traçabilité
 
-
 skill:
   show: true
   order: 4
@@ -127,31 +126,44 @@ skill:
     - name: Langages de Programmation
       item:
         - Python
-        - SQL
         - Java
         - C
-
-    - name: Frameworks & Outils
+        - SQL
+    
+    - name: Machine Learning & IA
       item:
-        - Pandas, NumPy
-        - Scikit-learn
-        - YOLO (pour vision)
+        - Supervised Learning
+        - LSTM
+        - Computer Vision
+        - PyTorch, TensorFlow
+    
+    - name: Frameworks & Outils IA
+      item:
+        - YOLO
         - PaddlePaddle
-        - MATLAB
-    - name: Systèmes & Développement
+        - MLflow 
+    
+    - name: DevOps & Outils
       item:
-        - Linux/Unix
         - Git
         - Docker
-        - PyCharm, VS Code
-    - name: Données & Analyse
+        - CI/CD 
+    
+    - name: Systèmes & Cloud
       item:
-        - Prétraitement et nettoyage de données
-        - Annotation de données multimodales
-        - Pipelines de données pour ML
-        - Analyse exploratoire (EDA)
-        - Visualisation de données (Matplotlib, Seaborn)        
+        - Linux / Unix
+        - AWS 
+        - Embedded Systems
+        - Microcontrollers
 
+    - name: Data Engineering & Traitement des Données
+      item:
+        - Pandas, NumPy
+        - Spark / PySpark 
+        - ETL Pipelines 
+        - Data Annotation
+        - Data Pipelines
+    
 education:
   show: true
   order: 3
