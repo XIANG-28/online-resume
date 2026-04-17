@@ -132,50 +132,56 @@ skill:
   order: 4
   title: Skills
   description: |
-  
+
+
   groups:
 
     - name: Programming Languages
       item:
         - Python
+        - SQL
         - Java
         - C
-        - SQL
     
-    - name: Machine Learning & AI
-      item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
-        - PyTorch, TensorFlow
-    
-    - name: AI Frameworks & Tools
-      item:
-        - YOLO
-        - PaddlePaddle
-        - MLflow 
-    
-    - name: DevOps & Tools
+    - name: DevOps & Cloud
       item:
         - Git
+        - GitHub Actions (CI/CD)
         - Docker
-        - CI/CD
-    
-    - name: Systems & Cloud
-      item:
-        - Linux / Unix
+        - Linux
+        - Render Deployment
         - AWS 
-        - Embedded Systems
-        - Microcontrollers
-    
-    - name: Data Engineering & Data Processing
-      item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
-        - Data Pipelines
   
+    - name: Machine Learning & AI
+      item:
+        - Machine Learning
+        - Deep Learning
+        - Computer Vision
+        - Time Series Analysis
+  
+    - name: ML / AI Frameworks
+      item:
+        - PyTorch
+        - TensorFlow
+        - YOLO
+        - PaddlePaddle
+        - MLflow
+  
+    - name: Data Visualization & Tools
+      item:
+        - Streamlit
+        - Matplotlib
+        - Dashboard Development
+
+    - name: Data Engineering & Backend
+      item:
+        - FastAPI
+        - REST API Design
+        - ETL Pipelines
+        - Data Pipelines
+        - Data Processing (Pandas, NumPy)
+        - PySpark    
+
    
 education:
   show: true
@@ -190,8 +196,10 @@ education:
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
       description: | 
-        Relevant Coursework: Machine Learning, Embedded Systems, Smart Sensors, Data Structures, AI for Smart Systems  
-
+        
+        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
+        Virtual Instrumentation, Smart Sensors, Project Management, 
+        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -199,7 +207,9 @@ education:
       major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
-
+        Major courses: Advanced Mathematics, Linear Algebra, 
+        Computer Principles, Computer Networks, Database, operating system, 
+        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -207,7 +217,11 @@ education:
       major: Finance (GPA：3.57/4)
       degree: Bachelor
       description: |
-  
+    
+         Major courses: Micro Economics, International Economics, 
+         Statistics, Insurance, Accounting
+         Financial Engineering, Financial Marketing, Financial Risk Management, 
+         International Credit, Stock investment, etc.
 
       
     
@@ -218,12 +232,14 @@ project:
   description: |
 
   items:
-    - name: End-to-End Sales Analytics Data Engineering Pipeline
+  
+    - name: Sales Analytics Data Engineering Pipeline
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
-      tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Data Engineering, Docker
+      tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.3-2026.4
       description: Built an end-to-end sales analytics system with FastAPI backend and Streamlit dashboard. Designed a Pandas-based data pipeline for KPI computation and trend analysis. Deployed backend on Render and frontend on Streamlit Cloud, and implemented CI/CD with GitHub Actions for automated testing and deployment.
-   
+
+
     - name: Autonomous Driving System for Small-Scale Vehicles
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: PID Control, YOLOv5, PP-PicoDet, Computer Vision, Sensor Fusion
