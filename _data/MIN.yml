@@ -232,7 +232,7 @@ project:
 
   items:
   
-    - name: End-to-End Sales Analytics Data Engineering Pipeline
+    - name: Sales Analytics Data Engineering Pipeline
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
       tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.3-2026.4
