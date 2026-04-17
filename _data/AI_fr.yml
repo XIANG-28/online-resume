@@ -139,14 +139,6 @@ skill:
         - C
         - SQL
 
-    - name: Machine Learning & Deep Learning
-      item:
-        - Machine Learning
-        - Deep Learning
-        - Supervised Learning
-        - Time Series Analysis
-        - Computer Vision
-  
     - name: Frameworks IA / ML
       item:
         - PyTorch
@@ -171,6 +163,13 @@ skill:
       item:
         - Streamlit
         - Matplotlib    
+        
+    - name: Machine Learning & Deep Learning
+      item:
+        - Deep Learning
+        - Supervised Learning
+        - Time Series Analysis
+        - Computer Vision
   
 
 education:
@@ -212,7 +211,7 @@ project:
   items:
     - name: Pipeline de Data Engineering pour l’Analyse des Ventes
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
-      tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
+      tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.1-2026.4
       description: Développement d’un système complet d’analyse de données de ventes avec un backend FastAPI et un dashboard interactif Streamlit. Conception d’un pipeline de traitement de données avec Pandas pour le calcul des KPI et l’analyse des tendances. Déploiement du backend sur Render et du frontend sur Streamlit Cloud, avec mise en place d’un workflow CI/CD via GitHub Actions pour l’automatisation des tests et du déploiement.
       
