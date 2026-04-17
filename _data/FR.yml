@@ -218,7 +218,7 @@ project:
   description: |
 
   items:
-     - name: Pipeline de Data Engineering pour l’Analyse des Ventes de Bout en Bout
+    - name: Pipeline de Data Engineering pour l’Analyse des Ventes de Bout en Bout
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
       tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.1-2026.4
