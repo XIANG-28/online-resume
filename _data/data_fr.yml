@@ -201,6 +201,13 @@ project:
   title: Projects
   description: |
   items:
+     - name: Pipeline de Data Engineering pour l’Analyse des Ventes de Bout en Bout
+      link: 'https://github.com/XIANG-28/sales-data-project-pro'
+      tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
+      date: 2026.1-2026.4
+      description: Développement d’un système complet d’analyse de données de ventes avec un backend FastAPI et un dashboard interactif Streamlit. Conception d’un pipeline de traitement de données avec Pandas pour le calcul des KPI et l’analyse des tendances. Déploiement du backend sur Render et du frontend sur Streamlit Cloud, avec mise en place d’un workflow CI/CD via GitHub Actions pour l’automatisation des tests et du déploiement.
+   
+  
     - name: Système de conduite autonome pour véhicule miniature
       link: 'https://github.com/XIANG-28/DJI-robomaster'
       tags: YOLOv5, PP-PicoDet, capteurs
