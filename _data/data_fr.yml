@@ -130,39 +130,37 @@ skill:
         - C
         - SQL
     
-    - name: Machine Learning & IA
+    - name: Data Engineering & Backend
       item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
-        - PyTorch, TensorFlow
-    
-    - name: Frameworks & Outils IA
+        - FastAPI
+        - Conception d’API REST
+        - Pipelines de données (ETL)
+        - Traitement de données (Pandas, NumPy)
+        - PySpark
+        - API Integration
+        - Data Modeling
+  
+    - name: Data Analytics & Visualization
       item:
-        - YOLO
-        - PaddlePaddle
-        - MLflow 
-    
-    - name: DevOps & Outils
+        - Streamlit
+        - Matplotlib
+        - Développement de dashboards
+        - KPI Design
+        - Analyse de données
+  
+    - name: Cloud & DevOps
       item:
-        - Git
+        - Git / Git Workflow
+        - GitHub Actions (CI/CD)
         - Docker
-        - CI/CD 
-    
-    - name: Systèmes & Cloud
+        - Cloud Deployment (Render)
+        - Linux
+  
+    - name: Machine Learning (fondamentaux)
       item:
-        - Linux / Unix
-        - AWS 
-        - Embedded Systems
-        - Microcontrollers
-
-    - name: Data Engineering & Traitement des Données
-      item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
-        - Data Pipelines
+        - Machine Learning
+        - Analyse de séries temporelles
+          
     
 education:
   show: true
@@ -201,9 +199,9 @@ project:
   title: Projects
   description: |
   items:
-    - name: Pipeline de Data Engineering pour l’Analyse des Ventes de Bout en Bout
+    - name: Pipeline de Data Engineering pour l’Analyse des Ventes
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
-      tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
+      tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.1-2026.4
       description: Développement d’un système complet d’analyse de données de ventes avec un backend FastAPI et un dashboard interactif Streamlit. Conception d’un pipeline de traitement de données avec Pandas pour le calcul des KPI et l’analyse des tendances. Déploiement du backend sur Render et du frontend sur Streamlit Cloud, avec mise en place d’un workflow CI/CD via GitHub Actions pour l’automatisation des tests et du déploiement.
    
