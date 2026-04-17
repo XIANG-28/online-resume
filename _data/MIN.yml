@@ -131,81 +131,57 @@ skill:
   order: 4
   title: Skills
   description: |
-  
-  # items:
-  # - name: C
-  #   level: 4
-  # - name: JAVA
-  #   level: 4
-  # - name: Python
-  #   level: 5
-  # - name: SQL
-  #   level: 3
-  # - name: MATLAB
-  #   level: 4
-  # - name: Linux/ Unix
-  #   level: 4
-  # - name: Git
-  #   level: 3
-  # - name: VS Code
-  #   level: 5 
-  # - name: PyCharm
-  #   level: 5  
-  # - name: Embedded Systems
-  #   level: 4
-  # - name: Docker
-  #   level: 3   
-  # - name: Microcontrollers
-  #   level: 4       
-  # - name: Machine Learning
-  #   level: 5
-  # - name: Data Processing
-  #   level: 4      
-  # - name: JavaScript
-  #   level: 3  
+
+
   groups:
 
     - name: Programming Languages
       item:
         - Python
+        - SQL
         - Java
         - C
-        - SQL
-    
+  
+    - name: Data Engineering & Backend
+      item:
+        - FastAPI
+        - REST API Design
+        - ETL Pipelines
+        - Data Pipelines
+        - Data Processing (Pandas, NumPy)
+        - PySpark
+  
     - name: Machine Learning & AI
       item:
-        - Supervised Learning
-        - LSTM
+        - Machine Learning
+        - Deep Learning
         - Computer Vision
-        - PyTorch, TensorFlow
-    
-    - name: AI Frameworks & Tools
+        - Time Series Analysis
+  
+    - name: ML / AI Frameworks
       item:
+        - PyTorch
+        - TensorFlow
         - YOLO
         - PaddlePaddle
-        - MLflow 
+        - MLflow
+  
+    - name: Data Visualization & Tools
+      item:
+        - Streamlit
+        - Matplotlib
+        - Dashboard Development
     
-    - name: DevOps & Tools
+    - name: DevOps & Cloud
       item:
         - Git
+        - GitHub Actions (CI/CD)
         - Docker
-        - CI/CD
-    
-    - name: Systems & Cloud
-      item:
-        - Linux / Unix
+        - Linux
+        - Render Deployment
         - AWS 
-        - Embedded Systems
-        - Microcontrollers
     
-    - name: Data Engineering & Data Processing
-      item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
-        - Data Pipelines
-  
+
    
 education:
   show: true
