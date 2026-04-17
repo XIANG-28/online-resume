@@ -138,41 +138,39 @@ skill:
         - Java
         - C
         - SQL
-    
-    - name: Machine Learning & IA
-      item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
-        - PyTorch, TensorFlow
-    
-    - name: Frameworks & Outils IA
-      item:
-        - YOLO
-        - PaddlePaddle
-        - MLflow 
-    
-    - name: DevOps & Outils
-      item:
-        - Git
-        - Docker
-        - CI/CD 
-    
-    - name: Systèmes & Cloud
-      item:
-        - Linux / Unix
-        - AWS 
-        - Embedded Systems
-        - Microcontrollers
 
-    - name: Data Engineering & Traitement des Données
+    - name: Machine Learning & Deep Learning
       item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
-        - Data Pipelines
-    
+        - Machine Learning
+        - Deep Learning
+        - Supervised Learning
+        - Time Series Analysis
+        - Computer Vision
+  
+    - name: Frameworks IA / ML
+      item:
+        - PyTorch
+        - TensorFlow
+        - YOLO
+        - MLflow
+  
+    - name: Data Processing
+      item:
+        - Pandas
+        - NumPy
+        - PySpark
+  
+    - name: MLOps & Deployment
+      item:
+        - Docker
+        - GitHub Actions (CI/CD)
+        - Model Deployment
+        - FastAPI (inference API)
+  
+    - name: Visualization & Tools
+      item:
+        - Streamlit
+        - Matplotlib    
   
 
 education:
@@ -212,7 +210,7 @@ project:
   description: |
 
   items:
-    - name: Pipeline de Data Engineering pour l’Analyse des Ventes de Bout en Bout
+    - name: Pipeline de Data Engineering pour l’Analyse des Ventes
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
       tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.1-2026.4
