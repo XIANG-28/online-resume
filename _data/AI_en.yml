@@ -142,45 +142,39 @@ skill:
         - SQL
         - Java
         - C
-    
-    - name: DevOps & Cloud
-      item:
-        - Git
-        - GitHub Actions (CI/CD)
-        - Docker
-        - Linux
-        - Render Deployment
-        - AWS 
-  
-    - name: Machine Learning & AI
-      item:
-        - Machine Learning
-        - Deep Learning
-        - Computer Vision
-        - Time Series Analysis
-  
-    - name: ML / AI Frameworks
+       
+    - name: AI Frameworks
       item:
         - PyTorch
         - TensorFlow
         - YOLO
-        - PaddlePaddle
         - MLflow
   
-    - name: Data Visualization & Tools
+    - name: Data Processing
+      item:
+        - Pandas
+        - NumPy
+        - PySpark
+  
+    - name: MLOps & Deployment
+      item:
+        - FastAPI
+        - Docker
+        - CI/CD
+        - Model Deployment
+  
+    - name: Visualization & Tools
       item:
         - Streamlit
         - Matplotlib
         - Dashboard Development
 
-    - name: Data Engineering & Backend
+    - name: Machine Learning & Deep Learning
       item:
-        - FastAPI
-        - REST API Design
-        - ETL Pipelines
-        - Data Pipelines
-        - Data Processing (Pandas, NumPy)
-        - PySpark    
+        - Deep Learning
+        - Supervised Learning
+        - Time Series Analysis
+        - Computer Vision
 
    
 education:
