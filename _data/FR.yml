@@ -132,44 +132,55 @@ skill:
   title: Compétences
   description: |
   groups:
-    - name: Langages de Programmation
+
+groups:
+
+    - name: Langages de programmation
       item:
         - Python
+        - SQL
         - Java
         - C
-        - SQL
-    - name: Systèmes et Matériels
+  
+    - name: Data Engineering & Backend
       item:
-        - Linux/Unix
-        - Systèmes Embarqués
-        - Microcontrôleurs 
-        
-    - name: Apprentissage Automatique
+        - FastAPI
+        - Conception d’API REST
+        - Pipelines ETL
+        - Pipelines de données
+        - Traitement de données (Pandas, NumPy)
+        - PySpark
+  
+    - name: Machine Learning & IA
       item:
-        - Apprentissage Supervisé
-        - LSTM
-        - Vision par Ordinateur
-    
-    - name: Frameworks et Bibliothèques
+        - Machine Learning
+        - Deep Learning
+        - Vision par ordinateur
+        - Analyse de séries temporelles
+  
+    - name: Frameworks IA / ML
       item:
+        - PyTorch
+        - TensorFlow
         - YOLO
         - PaddlePaddle
-        - MATLAB
-    
-    - name: Données et Pipelines
+        - MLflow
+  
+    - name: Visualisation de données & outils
       item:
-        - Traitement de Données
-        - Annotation de Données
-        - Pipelines IA
-        
-    - name: Outils de Développement
+        - Streamlit
+        - Matplotlib
+        - Développement de dashboards
+  
+    - name: DevOps & Cloud
       item:
         - Git
-        - PyCharm  
-        - VS Code
-        - Docker  
-   
-
+        - GitHub Actions (CI/CD)
+        - Docker
+        - Linux
+        - Déploiement sur Render
+        - AWS (niveau basique)
+ 
 education:
   show: true
   order: 3
