@@ -141,15 +141,15 @@ skill:
         - SQL
         - Java
         - C
-  
-    - name: Data Engineering & Backend
+    
+    - name: DevOps & Cloud
       item:
-        - FastAPI
-        - REST API Design
-        - ETL Pipelines
-        - Data Pipelines
-        - Data Processing (Pandas, NumPy)
-        - PySpark
+        - Git
+        - GitHub Actions (CI/CD)
+        - Docker
+        - Linux
+        - Render Deployment
+        - AWS 
   
     - name: Machine Learning & AI
       item:
@@ -171,16 +171,15 @@ skill:
         - Streamlit
         - Matplotlib
         - Dashboard Development
-    
-    - name: DevOps & Cloud
+
+    - name: Data Engineering & Backend
       item:
-        - Git
-        - GitHub Actions (CI/CD)
-        - Docker
-        - Linux
-        - Render Deployment
-        - AWS 
-    
+        - FastAPI
+        - REST API Design
+        - ETL Pipelines
+        - Data Pipelines
+        - Data Processing (Pandas, NumPy)
+        - PySpark    
 
    
 education:
