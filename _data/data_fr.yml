@@ -139,14 +139,7 @@ skill:
         - PySpark
         - API Integration
         - Data Modeling
-  
-    - name: Data Analytics & Visualization
-      item:
-        - Streamlit
-        - Matplotlib
-        - Développement de dashboards
-        - KPI Design
-        - Analyse de données
+
   
     - name: Cloud & DevOps
       item:
@@ -156,11 +149,18 @@ skill:
         - Cloud Deployment (Render)
         - Linux
   
-    - name: Machine Learning (fondamentaux)
+    - name: Machine Learning
       item:
         - Machine Learning
         - Analyse de séries temporelles
-          
+  
+    - name: Data Analytics & Visualization
+      item:
+        - Streamlit
+        - Matplotlib
+        - Développement de dashboards
+        - KPI Design
+        - Analyse de données          
     
 education:
   show: true
