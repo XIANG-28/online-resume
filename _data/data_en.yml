@@ -133,49 +133,55 @@ skill:
   order: 4
   title: Skills
   description: |
-  
+
+
   groups:
 
     - name: Programming Languages
       item:
         - Python
+        - SQL
         - Java
         - C
-        - SQL
     
-    - name: Machine Learning & AI
-      item:
-        - Supervised Learning
-        - LSTM
-        - Computer Vision
-        - PyTorch, TensorFlow
-    
-    - name: AI Frameworks & Tools
-      item:
-        - YOLO
-        - PaddlePaddle
-        - MLflow 
-    
-    - name: DevOps & Tools
+    - name: DevOps & Cloud
       item:
         - Git
+        - GitHub Actions (CI/CD)
         - Docker
-        - CI/CD
-    
-    - name: Systems & Cloud
-      item:
-        - Linux / Unix
+        - Linux
+        - Render Deployment
         - AWS 
-        - Embedded Systems
-        - Microcontrollers
-    
-    - name: Data Engineering & Data Processing
+  
+    - name: Machine Learning & AI
       item:
-        - Pandas, NumPy
-        - Spark / PySpark 
-        - ETL Pipelines 
-        - Data Annotation
+        - Machine Learning
+        - Deep Learning
+        - Computer Vision
+        - Time Series Analysis
+  
+    - name: ML / AI Frameworks
+      item:
+        - PyTorch
+        - TensorFlow
+        - YOLO
+        - PaddlePaddle
+        - MLflow
+  
+    - name: Data Visualization & Tools
+      item:
+        - Streamlit
+        - Matplotlib
+        - Dashboard Development
+
+    - name: Data Engineering & Backend
+      item:
+        - FastAPI
+        - REST API Design
+        - ETL Pipelines
         - Data Pipelines
+        - Data Processing (Pandas, NumPy)
+        - PySpark    
 
    
 education:
@@ -227,12 +233,13 @@ project:
   description: |
 
   items:
-
-    - name: End-to-End Sales Analytics Data Engineering Pipeline
+  
+    - name: Sales Analytics Data Engineering Pipeline
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
-      tags: Python, FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Data Engineering, Docker
+      tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
       date: 2026.3-2026.4
       description: Built an end-to-end sales analytics system with FastAPI backend and Streamlit dashboard. Designed a Pandas-based data pipeline for KPI computation and trend analysis. Deployed backend on Render and frontend on Streamlit Cloud, and implemented CI/CD with GitHub Actions for automated testing and deployment.
+
   
     - name: Autonomous Driving Data Pipeline
       link: 'https://github.com/XIANG-28/DJI-robomaster'
