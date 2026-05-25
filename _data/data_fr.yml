@@ -84,8 +84,6 @@ profile:
   order: 1
   title: Profile
   description: 
-    Étudiante en master d’intelligence artificielle embarquée, spécialisée en traitement et analyse de données. 
-    Expérience en annotation, nettoyage et structuration de données multimodales, création de pipelines fiables pour machine learning. 
     À la recherche d’opportunités en Europe dans le domaine de **Data / Data Engineering / Data Analysis**.
 
 experience:
@@ -129,16 +127,6 @@ skill:
         - Java
         - C
         - SQL
-    
-    - name: Data Engineering & Backend
-      item:
-        - FastAPI
-        - Conception d’API REST
-        - Pipelines de données (ETL)
-        - Traitement de données (Pandas, NumPy)
-        - PySpark
-        - API Integration
-        - Data Modeling
 
   
     - name: Cloud & DevOps
@@ -154,8 +142,15 @@ skill:
         - Machine Learning
         - Analyse de séries temporelles
   
-    - name: Data Analytics & Visualization
+    - name: Data
       item:
+        - FastAPI
+        - Conception d’API REST
+        - Pipelines de données (ETL)
+        - Traitement de données (Pandas, NumPy)
+        - PySpark
+        - API Integration
+        - Data Modeling
         - Streamlit
         - Matplotlib
         - Développement de dashboards
@@ -174,7 +169,6 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        Cours principaux: Fondamentaux du machine learning, Prétraitement et analyse de données, Structures de données et algorithmes, Capteurs intelligents
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
@@ -182,16 +176,13 @@ education:
       major: Informatique (GPA：3.81/4)
       degree: Licence
       description: |  
-        Cours principaux: Bases de données, Systèmes d’exploitation, Analyse et conception d’algorithmes, Machine Learning, Mathématiques avancées
-
+       
     - institution: Shandong University of Finance and Economics, Chine
       link:
       date: 2020.9-2023.6
       major: Finance (GPA：3.57/4)
       degree: Licence
       description: |
-        Cours principaux: Microéconomie, économie internationale, Statistiques, Assurance, comptabilité, Ingénierie financière
-                      Marketing financier, Gestion des risques financiers, Crédit international, Investissement boursier, etc.
       
 project:
   show: true
