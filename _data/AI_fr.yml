@@ -84,8 +84,6 @@ profile:
   order: 1
   title: Profile
   description: 
-    Diplômée d’un master en Intelligence Artificielle Embarquée, avec formation en informatique et finance, 
-    Compétences en machine learning, vision par ordinateur et traitement de données, 
     À la recherche d’opportunités en Europe dans le domaine de l’IA et du Machine Learning.
 
     
@@ -185,8 +183,7 @@ education:
       major: Intelligence Artificielle Embarquée (Grade:15.59/20)
       degree: Master
       description: | 
-        Cours principaux : Programmation embarquée en C, Intelligence artificielle pour systèmes intelligents, Instrumentation virtuelle, Capteurs intelligents, Gestion de projet, Structures de données et algorithmes, Fondamentaux du machine learning, etc.
-
+   
 
     - institution: Shandong University of Finance and Economics, Chine
       link:
