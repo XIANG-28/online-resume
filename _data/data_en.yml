@@ -83,9 +83,6 @@ profile:
   order: 1
   title: Profile
   description:
-    Master’s graduate in Embedded Artificial Intelligence with a background in Computer Science and Finance,
-    experienced in data annotation, data preprocessing, and building AI data pipelines,
-    skilled in SQL, Python, and data processing workflows,
     seeking Data Engineer or AI Data Specialist opportunities in Europe.
     
 experience:
@@ -144,14 +141,6 @@ skill:
         - Java
         - C
   
-    - name: Data Analytics & Visualization
-      item:
-        - Streamlit
-        - Matplotlib
-        - Dashboard Development
-        - KPI Design
-        - Data Analysis
-  
     - name: Cloud & DevOps
       item:
         - Git / Git Workflow
@@ -165,7 +154,7 @@ skill:
         - Machine Learning
         - Time Series Analysis  
     
-    - name: Data Engineering & Backend
+    - name: Data
       item:
         - FastAPI
         - REST API Design
@@ -174,6 +163,11 @@ skill:
         - PySpark
         - API Integration
         - Data Modeling
+        - Streamlit
+        - Matplotlib
+        - Dashboard Development
+        - KPI Design
+        - Data Analysis
         
 education:
   show: true
@@ -189,9 +183,7 @@ education:
       degree: Master
       description: | 
         
-        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
-        Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -199,9 +191,6 @@ education:
       major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database, operating system, 
-        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -209,11 +198,6 @@ education:
       major: Finance (GPA：3.57/4)
       degree: Bachelor
       description: |
-    
-         Major courses: Micro Economics, International Economics, 
-         Statistics, Insurance, Accounting
-         Financial Engineering, Financial Marketing, Financial Risk Management, 
-         International Credit, Stock investment, etc.
 
       
     
