@@ -83,8 +83,6 @@ profile:
   order: 1
   title: Profile
   description: 
-    Master’s graduate in Embedded Artificial Intelligence with a background in Computer Science and Finance. 
-    Skilled in machine learning and computer vision with hands-on experience in AI projects and data processing. 
     Seeking AI / Machine Learning Engineer opportunities in Europe.
     
 experience:
@@ -190,10 +188,7 @@ education:
       major: Connected Embedded Artificial Intelligence (Grade:15.59/20)
       degree: Master
       description: | 
-        
-        Major courses: Embedded C Progamming, Artificial Intelligence for Smart Systems, 
-        Virtual Instrumentation, Smart Sensors, Project Management, 
-        Data Structures and Algorithms, Fundamentals of Machine Learning, etc.
+
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -201,9 +196,7 @@ education:
       major: Computer Science and Technology (GPA：3.81/4)
       degree: Bachelor
       description: |  
-        Major courses: Advanced Mathematics, Linear Algebra, 
-        Computer Principles, Computer Networks, Database, operating system, 
-        Algorithm Analysis and Design, Computer Graphics, mobile Application Development, Machine Learning, etc.
+
 
     - institution: Shandong University of Finance and Economics
       link:
@@ -212,10 +205,6 @@ education:
       degree: Bachelor
       description: |
     
-         Major courses: Micro Economics, International Economics, 
-         Statistics, Insurance, Accounting
-         Financial Engineering, Financial Marketing, Financial Risk Management, 
-         International Credit, Stock investment, etc.
 
       
     
