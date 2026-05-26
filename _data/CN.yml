@@ -153,11 +153,11 @@ project:
   description: |
 
   items:
-    # - name: 简易扫地机器人
-    #   link: 
-    #   tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
-    #   date: 2024.7-至今
-    #   description: 我计划初步做一个简易的扫地机器人，具有扫地和避障功能。
+    - name: 销售分析数据工程管道
+      link: 'https://github.com/XIANG-28/sales-data-project-pro'
+      tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
+      date: 2026.3-2026.4
+      description: 
   
     - name: 小型车自动驾驶
       link: 'https://github.com/XIANG-28/DJI-robomaster'
