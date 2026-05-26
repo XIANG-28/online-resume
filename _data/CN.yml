@@ -155,7 +155,7 @@ project:
   items:
     # - name: 简易扫地机器人
     #   link: 
-    #   tags:
+    #   tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
     #   date: 2024.7-至今
     #   description: 我计划初步做一个简易的扫地机器人，具有扫地和避障功能。
   
@@ -248,30 +248,30 @@ skill:
         - Linux / Unix
         - 嵌入式系统
         - 微控制器
-    - name: 工具
-      item:
-        - Git
-        - PyCharm  
-        - VS Code
-        - Docker
         
     - name: 机器学习
       item:
         - 监督学习
         - 自然语言处理
         - 计算机视觉
-    
-    - name: 框架与工具
+
+    - name: MLOps & 部署
       item:
-        - YOLO
-        - PaddlePaddle
+        - FastAPI
+        - Docker
+        - CI/CD
+        - Model Deployment
+  
+    - name: 可视化 & 工具
+      item:
+        - Streamlit
+        - Matplotlib
+        - Dashboard Development
         - MATLAB
-    
-    - name: 数据
-      item:
-        - 数据处理
-        - 数据标注
-        - 数据管道
+        - Git
+        - PyCharm  
+        - VS Code
+        - Docker
 
 education:
   show: true
