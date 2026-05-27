@@ -195,7 +195,7 @@ project:
       link: 'https://github.com/XIANG-28/ai_citation_finder'
       tags: FastAPI, Streamlit, GitHub Actions, OPENAI, Render, PubMed API
       date: 2026.3-2026.5
-      description: description: Système IA de recherche biomédicale transformant des requêtes en langage naturel en résultats PubMed avec extraction de phrases pertinentes via LLM et embeddings.
+      description: Système IA de recherche biomédicale transformant des requêtes en langage naturel en résultats PubMed avec extraction de phrases pertinentes via LLM et embeddings.
       
     - name: Pipeline de Data Engineering pour l’Analyse des Ventes
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
