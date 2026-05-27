@@ -153,10 +153,16 @@ project:
   description: |
 
   items:
+    - name: 全栈式 AI 检索系统
+      link: 'https://github.com/XIANG-28/ai_citation_finder'
+      tags: FastAPI, Streamlit, GitHub Actions, OPENAI, Render, PubMed API
+      date: 2026.3-2026.5
+      description: 构建了一个基于LLM与向量检索的医学文献搜索系统，可将自然语言问题转化为PubMed检索结果，并返回句子级证据。
+      
     - name: 销售分析数据工程管道
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
       tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
-      date: 2026.3-2026.4
+      date: 2026.1-2026.3
       description: 使用 FastAPI 后端和 Streamlit 控制面板构建了端到端的销售分析系统。设计了基于 Pandas 的数据管道，用于 KPI 计算和趋势分析。将后端部署在 Render，前端部署在 Streamlit Cloud，并使用 GitHub Actions 实现了 CI/CD，用于自动化测试和部署。
   
     - name: 小型车自动驾驶
