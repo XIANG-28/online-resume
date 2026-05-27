@@ -232,7 +232,7 @@ project:
 
   items:
   
-    - name: AI Citation Finder | Full-Stack AI Retrieval System
+    - name: Full-Stack AI Retrieval System
       link: 'https://github.com/XIANG-28/ai_citation_finder'
       tags: FastAPI, Streamlit, GitHub Actions, OPENAI, Render, PubMed API
       date: 2026.3-2026.5
@@ -241,7 +241,7 @@ project:
     - name: Sales Analytics Data Engineering Pipeline
       link: 'https://github.com/XIANG-28/sales-data-project-pro'
       tags: FastAPI, Streamlit, Pandas, GitHub Actions, CI/CD, Render, Docker
-      date: 2026.3-2026.4
+      date: 2026.1-2026.3
       description: Built an end-to-end sales analytics system with FastAPI backend and Streamlit dashboard. Designed a Pandas-based data pipeline for KPI computation and trend analysis. Deployed backend on Render and frontend on Streamlit Cloud, and implemented CI/CD with GitHub Actions for automated testing and deployment.
 
 
